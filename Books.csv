@@ -1,0 +1,1888 @@
+Book_ID,Title,Author,Genre,SubGenre,Weights,Publisher,Pacing,Gender,Age_Group,language,era
+1,Fundamentals of Wavelets,Jaideva Goswami,tech,signal_processing,228,Wiley,slow,female,adult,english,ancient
+2,Data Smart,John Foreman,tech,data_science,235,Wiley,slow,others,adult,english,medieval
+3,God Created the Integers,Stephen Hawking,tech,mathematics,197,Penguin,fast,female,child,english,modern
+4,Superfreakonomics,Stephen Dubner,science,economics,179,HarperCollins,slow,female,old,hindi,medieval
+5,Orientalism,Edward Said,nonfiction,history,197,Penguin,medium,others,old,hindi,modern
+6,"Nature of Statistical Learning Theory, The",Vladimir Vapnik,tech,data_science,230,Springer,fast,male,old,hindi,modern
+7,Integration of the Indian States,V P Menon,nonfiction,history,217,Orient Blackswan,fast,female,adult,hindi,modern
+8,"Drunkard's Walk, The",Leonard Mlodinow,science,mathematics,197,Penguin,medium,others,child,english,ancient
+9,Image Processing & Mathematical Morphology,Frank Shih,tech,signal_processing,241,CRC,medium,male,child,english,modern
+10,How to Think Like Sherlock Holmes,Maria Konnikova,nonfiction,psychology,240,Penguin,fast,others,child,hindi,ancient
+11,Data Scientists at Work,Gutierrez Sebastian,tech,data_science,230,Apress,fast,male,adult,hindi,ancient
+12,Slaughterhouse Five,Kurt Vonnegut,fiction,classic,198,Random House,slow,female,old,english,medieval
+13,Birth of a Theorem,Cedric Villani,science,mathematics,234,Bodley Head,slow,female,adult,hindi,ancient
+14,Structure & Interpretation of Computer Programs,Gerald Sussman,tech,computer_science,240,MIT Press,fast,male,child,english,medieval
+15,"Age of Wrath, The",Abraham Eraly,nonfiction,history,238,Penguin,medium,female,child,english,medieval
+16,"Trial, The",Frank Kafka,fiction,classic,198,Random House,slow,female,old,english,medieval
+17,Statistical Decision Theory',John Pratt,tech,data_science,236,MIT Press,medium,others,old,hindi,medieval
+18,Data Mining Handbook,Robert Nisbet,tech,data_science,242,Apress,medium,female,old,hindi,modern
+19,"New Machiavelli, The",H. G. Wells,fiction,novel,180,Penguin,slow,female,old,hindi,modern
+20,Physics & Philosophy,Werner Heisenberg,philosophy,science,197,Penguin,slow,female,child,hindi,modern
+21,Making Software,Andy Heisenberg,tech,computer_science,232,O'Reilly,fast,female,old,hindi,ancient
+22,"Analysis, Vol I",Terence Tao,tech,mathematics,248,HBA,slow,male,old,english,ancient
+23,Machine Learning for Hackers,Drew Conway,tech,data_science,233,O'Reilly,slow,others,child,english,medieval
+24,"Signal and the Noise, The",Nate Silver,tech,data_science,233,Penguin,slow,others,child,hindi,modern
+25,Python for Data Analysis,Wes McKinney,tech,data_science,233,O'Reilly,slow,female,adult,hindi,modern
+26,Introduction to Algorithms,Thomas Cormen,tech,computer_science,234,MIT Press,fast,male,old,english,ancient
+27,"Beautiful and the Damned, The",Siddhartha Deb,nonfiction,history,198,Penguin,medium,others,old,hindi,medieval
+28,"Outsider, The",Albert Camus,fiction,classic,198,Penguin,slow,others,adult,english,medieval
+29,"Complete Sherlock Holmes, The - Vol I",Arthur Conan Doyle,fiction,classic,176,Random House,fast,others,adult,hindi,modern
+30,"Complete Sherlock Holmes, The - Vol II",Arthur Conan Doyle,fiction,classic,176,Random House,medium,female,adult,hindi,modern
+31,"Wealth of Nations, The",Adam Smith,science,economics,175,Random House,medium,male,child,hindi,modern
+32,"Pillars of the Earth, The",Ken Follett,fiction,novel,176,Random House,medium,male,old,english,ancient
+33,Mein Kampf,Adolf Hitler,nonfiction,autobiography,212,Rupa,fast,female,adult,hindi,medieval
+34,"Tao of Physics, The",Fritjof Capra,science,physics,179,Penguin,medium,female,adult,english,modern
+35,Surely You're Joking Mr Feynman,Richard Feynman,science,physics,198,Random House,slow,others,child,hindi,ancient
+36,"Farewell to Arms, A",Ernest Hemingway,fiction,classic,179,Rupa,medium,female,child,hindi,ancient
+37,"Veteran, The",Frederick Forsyth,fiction,novel,177,Transworld,slow,female,adult,english,medieval
+38,False Impressions,Jeffery Archer,fiction,novel,177,Pan,medium,female,old,hindi,modern
+39,"Last Lecture, The",Randy Pausch,nonfiction,autobiography,197,Hyperion,slow,female,adult,hindi,medieval
+40,Return of the Primitive,Ayn Rand,philosophy,objectivism,202,Penguin,fast,female,old,english,ancient
+41,Jurassic Park,Michael Crichton,fiction,novel,174,Random House,medium,male,old,hindi,modern
+42,"Russian Journal, A",John Steinbeck,nonfiction,history,196,Penguin,fast,female,old,hindi,medieval
+43,Tales of Mystery and Imagination,Edgar Allen Poe,fiction,classic,172,HarperCollins,medium,male,old,hindi,ancient
+44,Freakonomics,Stephen Dubner,science,economics,197,Penguin,medium,others,adult,english,medieval
+45,"Hidden Connections, The",Fritjof Capra,science,physics,197,HarperCollins,fast,others,adult,hindi,modern
+46,"Story of Philosophy, The",Will Durant,philosophy,history,170,Pocket,fast,female,old,hindi,modern
+47,Asami Asami,P L Deshpande,fiction,novel,205,Mauj,fast,female,child,hindi,modern
+48,Journal of a Novel,John Steinbeck,fiction,classic,196,Penguin,fast,female,adult,hindi,modern
+49,Once There Was a War,John Steinbeck,nonfiction,history,196,Penguin,medium,female,old,hindi,medieval
+50,"Moon is Down, The",John Steinbeck,fiction,classic,196,Penguin,fast,others,adult,english,medieval
+51,"Brethren, The",John Grisham,fiction,novel,174,Random House,medium,female,old,hindi,medieval
+52,In a Free State,V. S. Naipaul,fiction,novel,196,Rupa,medium,others,old,hindi,medieval
+53,Catch 22,Joseph Heller,fiction,classic,178,Random House,slow,male,child,hindi,medieval
+54,"Complete Mastermind, The",BBC,nonfiction,trivia,178,BBC,slow,male,old,english,modern
+55,Dylan on Dylan,Bob Dylan,nonfiction,autobiography,197,Random House,slow,female,child,hindi,modern
+56,Soft Computing & Intelligent Systems,Madan Gupta,tech,data_science,242,Elsevier,fast,male,old,hindi,medieval
+57,Textbook of Economic Theory,Alfred Stonier,tech,economics,242,Pearson,medium,female,child,hindi,medieval
+58,Econometric Analysis,W. H. Greene,tech,economics,242,Pearson,fast,female,child,english,ancient
+59,Learning OpenCV,Gary Bradsky,tech,signal_processing,232,O'Reilly,medium,others,adult,english,modern
+60,Data Structures Using C & C++,Andrew Tanenbaum,tech,computer_science,235,Prentice Hall,fast,female,adult,hindi,medieval
+61,"Computer Vision, A Modern Approach",David Forsyth,tech,signal_processing,255,Pearson,fast,others,old,english,modern
+62,Principles of Communication Systems,Schilling Taub,tech,signal_processing,240,TMH,medium,others,old,english,medieval
+63,Let Us C,Yashwant Kanetkar,tech,computer_science,213,Prentice Hall,fast,female,old,hindi,modern
+64,"Amulet of Samarkand, The",Jonathan Stroud,fiction,novel,179,Random House,slow,female,child,english,ancient
+65,Crime and Punishment,Fyodor Dostoevsky,fiction,classic,180,Penguin,medium,male,adult,hindi,ancient
+66,Angels & Demons,Dan Brown,fiction,novel,178,Random House,medium,others,child,hindi,modern
+67,"Argumentative Indian, The",Amartya Sen,nonfiction,history,209,Picador,slow,others,adult,hindi,medieval
+68,Sea of Poppies,Amitav Ghosh,fiction,novel,197,Penguin,slow,others,child,hindi,modern
+69,"Idea of Justice, The",Amartya Sen,philosophy,economics,212,Penguin,slow,male,child,hindi,medieval
+70,"Raisin in the Sun, A",Lorraine Hansberry,fiction,novel,175,Penguin,slow,male,child,hindi,modern
+71,All the President's Men,Bob Woodward,nonfiction,history,177,Random House,medium,male,child,english,ancient
+72,"Prisoner of Birth, A",Jeffery Archer,fiction,novel,176,Pan,slow,others,child,english,medieval
+73,Scoop!,Kuldip Nayar,nonfiction,history,216,HarperCollins,slow,male,child,hindi,medieval
+74,Ahe Manohar Tari,Sunita Deshpande,nonfiction,autobiography,213,Mauj,slow,female,old,english,ancient
+75,"Last Mughal, The",William Dalrymple,nonfiction,history,199,Penguin,fast,female,old,hindi,ancient
+76,"Social Choice & Welfare, Vol 39 No. 1",Various,tech,economics,235,Springer,medium,others,old,hindi,medieval
+77,Radiowaril Bhashane & Shrutika,P L Deshpande,nonfiction,misc,213,Mauj,slow,male,old,english,modern
+78,Gun Gayin Awadi,P L Deshpande,nonfiction,misc,212,Mauj,medium,male,child,hindi,modern
+79,Aghal Paghal,P L Deshpande,nonfiction,misc,212,Mauj,fast,others,adult,hindi,ancient
+80,Maqta-e-Ghalib,Sanjay Garg,nonfiction,poetry,221,Mauj,slow,others,child,hindi,ancient
+81,Beyond Degrees,Fritjof Capra,philosophy,education,222,HarperCollins,medium,male,adult,english,medieval
+82,Manasa,V P Kale,nonfiction,misc,213,Mauj,fast,male,adult,english,modern
+83,India from Midnight to Milennium,Shashi Tharoor,nonfiction,history,198,Penguin,fast,others,child,hindi,ancient
+84,"World's Greatest Trials, The",Fritjof Capra,nonfiction,history,210,HarperCollins,slow,others,child,english,modern
+85,"Great Indian Novel, The",Shashi Tharoor,fiction,novel,198,Penguin,slow,female,old,hindi,ancient
+86,O Jerusalem!,Dominique Lapierre,nonfiction,history,217,vikas,medium,female,child,english,modern
+87,"City of Joy, The",Dominique Lapierre,fiction,novel,177,vikas,slow,others,child,hindi,medieval
+88,Freedom at Midnight,Dominique Lapierre,nonfiction,history,167,vikas,slow,female,old,english,medieval
+89,"Winter of Our Discontent, The",John Steinbeck,fiction,classic,196,Penguin,fast,others,adult,hindi,ancient
+90,On Education,Bertrand Russell,philosophy,education,203,Routledge,slow,female,old,english,ancient
+91,Free Will,Sam Harris,nonfiction,psychology,203,FreePress,slow,others,adult,english,modern
+92,Bookless in Baghdad,Shashi Tharoor,nonfiction,history,206,Penguin,slow,others,child,english,modern
+93,"Case of the Lame Canary, The",Earle Stanley Gardner,fiction,novel,179,Jaico,slow,others,old,english,modern
+94,"Theory of Everything, The",Stephen Hawking,science,physics,217,Jaico,fast,others,child,english,modern
+95,New Markets & Other Essays,Peter Drucker,science,economics,176,Penguin,fast,male,adult,english,ancient
+96,Electric Universe,David Bodanis,science,physics,201,Penguin,slow,others,child,english,ancient
+97,"Hunchback of Notre Dame, The",Victor Hugo,fiction,classic,175,Random House,medium,female,adult,english,modern
+98,Burning Bright,John Steinbeck,fiction,classic,175,Penguin,slow,male,old,english,modern
+99,"Age of Discontuinity, The",Peter Drucker,nonfiction,economics,178,Random House,medium,others,old,english,modern
+100,Doctor in the Nude,Richard Gordon,fiction,novel,179,Penguin,slow,others,old,hindi,medieval
+101,Down and Out in Paris & London,George Orwell,nonfiction,autobiography,179,Penguin,fast,female,child,english,medieval
+102,Identity & Violence,Amartya Sen,philosophy,philosophy,219,Penguin,slow,male,child,hindi,ancient
+103,Beyond the Three Seas,William Dalrymple,nonfiction,history,197,Random House,fast,female,child,english,ancient
+104,"World's Greatest Short Stories, The",Fritjof Capra,fiction,classic,217,Jaico,medium,others,adult,english,modern
+105,Talking Straight,Lee Iacoca,nonfiction,autobiography,175,HighStakes,fast,male,old,hindi,medieval
+106,"Maugham's Collected Short Stories, Vol 3",William S Maugham,fiction,classic,171,Vintage,slow,female,old,english,ancient
+107,"Phantom of Manhattan, The",Frederick Forsyth,fiction,classic,180,HighStakes,medium,female,child,hindi,ancient
+108,Ashenden of The British Agent,William S Maugham,fiction,classic,160,Vintage,fast,female,old,english,medieval
+109,Zen & The Art of Motorcycle Maintenance,Robert Pirsig,philosophy,autobiography,172,Vintage,slow,female,child,english,medieval
+110,"Great War for Civilization, The",Robert Fisk,nonfiction,history,197,HarperCollins,fast,female,old,hindi,modern
+111,We the Living,Ayn Rand,fiction,novel,178,Penguin,slow,male,old,english,modern
+112,"Artist and the Mathematician, The",Amir Aczel,science,mathematics,186,HighStakes,slow,others,child,english,modern
+113,History of Western Philosophy,Bertrand Russell,philosophy,philosophy,213,Routledge,fast,female,adult,english,medieval
+114,Selected Short Stories,Fritjof Capra,fiction,classic,215,Jaico,fast,others,child,hindi,ancient
+115,Rationality & Freedom,Amartya Sen,science,economics,213,Springer,fast,female,child,hindi,ancient
+116,Clash of Civilizations and Remaking of the World Order,Samuel Huntington,nonfiction,history,228,Simon&Schuster,slow,female,child,hindi,modern
+117,Uncommon Wisdom,Fritjof Capra,nonfiction,anthology,197,Fontana,medium,male,child,english,modern
+118,One,Richard Bach,nonfiction,autobiography,172,Dell,slow,male,child,hindi,medieval
+119,Karl Marx Biography,V S Naipaul,nonfiction,autobiography,162,Fontana,fast,others,old,english,ancient
+120,To Sir With Love,Braithwaite,fiction,classic,197,Penguin,fast,male,adult,english,ancient
+121,Half A Life,V S Naipaul,fiction,novel,196,Wiley,slow,male,old,hindi,ancient
+122,"Discovery of India, The",Jawaharlal Nehru,nonfiction,history,230,Wiley,medium,others,adult,hindi,medieval
+123,Apulki,P L Deshpande,nonfiction,misc,211,Penguin,slow,male,child,hindi,ancient
+124,Unpopular Essays,Bertrand Russell,philosophy,philosophy,198,HarperCollins,medium,others,old,english,modern
+125,"Deceiver, The",Frederick Forsyth,fiction,novel,178,Penguin,fast,female,child,hindi,ancient
+126,Veil: Secret Wars of the CIA,Bob Woodward,nonfiction,history,171,Springer,medium,female,adult,english,ancient
+127,Char Shabda,P L Deshpande,nonfiction,misc,214,Orient Blackswan,slow,others,adult,hindi,ancient
+128,Rosy is My Relative,Gerald Durrell,fiction,novel,176,Penguin,medium,male,adult,english,ancient
+129,"Moon and Sixpence, The",William S Maugham,fiction,classic,180,CRC,slow,female,adult,hindi,modern
+130,Political Philosophers,Thomas Friedman,philosophy,politics,162,Penguin,fast,others,child,hindi,modern
+131,"Short History of the World, A",H G Wells,nonfiction,history,197,Apress,fast,male,adult,english,modern
+132,"Trembling of a Leaf, The",William S Maugham,fiction,novel,205,Random House,medium,male,old,english,medieval
+133,Doctor on the Brain,Richard Gordon,fiction,novel,204,Bodley Head,slow,male,child,hindi,ancient
+134,Simpsons & Their Mathematical Secrets,Simon Singh,science,mathematics,233,MIT Press,slow,others,adult,hindi,modern
+135,Pattern Classification,Hart Duda,tech,data_science,241,Penguin,medium,male,child,english,medieval
+136,From Beirut to Jerusalem,Thomas Friedman,nonfiction,history,202,Random House,medium,female,child,hindi,modern
+137,"Code Book, The",Simon Singh,science,mathematics,197,MIT Press,fast,male,adult,english,medieval
+138,"Age of the Warrior, The",Robert Fisk,nonfiction,history,197,Apress,medium,male,adult,english,ancient
+139,Final Crisis,Simon Singh,fiction,comic,257,Penguin,medium,others,old,hindi,medieval
+140,"Killing Joke, The",Thomas Friedman,fiction,comic,283,Penguin,medium,others,old,english,ancient
+141,Flashpoint,Robert Fisk,fiction,comic,265,O'Reilly,medium,female,adult,english,ancient
+142,Batman Earth One,Simon Singh,fiction,comic,265,HBA,slow,others,child,english,ancient
+143,Crisis on Infinite Earths,Robert Fisk,fiction,comic,258,O'Reilly,fast,others,old,hindi,ancient
+144,"Numbers Behind Numb3rs, The",Keith Devlin,science,mathematics,202,Penguin,medium,female,old,english,modern
+145,Superman Earth One - 1,Sergio Franco,fiction,comic,259,O'Reilly,slow,others,child,english,medieval
+146,Superman Earth One - 2,Keith Devlin,fiction,comic,258,MIT Press,fast,male,child,hindi,ancient
+147,Justice League: Throne of Atlantis,Sergio Franco,fiction,comic,258,Penguin,medium,others,child,english,modern
+148,Justice League: The Villain's Journey,Sergio Franco,fiction,comic,258,Penguin,slow,male,old,hindi,medieval
+149,"Death of Superman, The",James Gleick,fiction,comic,258,Random House,medium,others,child,english,ancient
+150,History of the DC Universe,James Gleick,fiction,comic,258,Random House,fast,others,child,hindi,ancient
+151,Batman: The Long Halloween,Sergio Franco,fiction,comic,258,Random House,slow,female,adult,english,ancient
+152,"Life in Letters, A",John Steinbeck,nonfiction,autobiography,196,Random House,fast,male,adult,english,ancient
+153,"Information, The",James Gleick,science,mathematics,233,Rupa,fast,female,adult,hindi,medieval
+154,"Journal of Economics, vol 106 No 3",Sergio Franco,science,economics,235,Penguin,fast,female,adult,hindi,ancient
+155,Elements of Information Theory,Joy Thomas,tech,signal_processing,229,Random House,medium,others,adult,hindi,modern
+156,Power Electronics - Rashid,Muhammad Rashid,tech,computer_science,235,Rupa,slow,female,adult,hindi,ancient
+157,Power Electronics - Mohan,Ned Mohan,tech,computer_science,237,Transworld,medium,male,child,english,modern
+158,Neural Networks,Simon Haykin,tech,data_science,240,Pan,fast,others,old,hindi,ancient
+159,"Grapes of Wrath, The",John Steinbeck,fiction,classic,196,Hyperion,fast,others,adult,hindi,medieval
+160,Vyakti ani Valli,P L Deshpande,nonfiction,misc,211,Penguin,medium,female,child,hindi,medieval
+161,Statistical Learning Theory,Vladimir Vapnik,tech,data_science,228,Random House,slow,others,child,hindi,medieval
+162,Empire of the Mughal - The Tainted Throne,Alex Rutherford,nonfiction,history,180,Penguin,medium,male,old,english,ancient
+163,Empire of the Mughal - Brothers at War,Alex Rutherford,nonfiction,history,180,HarperCollins,slow,male,old,english,medieval
+164,Empire of the Mughal - Ruler of the World,Alex Rutherford,nonfiction,history,180,Penguin,fast,male,child,english,medieval
+165,Empire of the Mughal - The Serpent's Tooth,Alex Rutherford,nonfiction,history,180,HarperCollins,slow,male,old,hindi,medieval
+166,Empire of the Mughal - Raiders from the North,Alex Rutherford,nonfiction,history,180,Pocket,slow,male,child,hindi,ancient
+167,Mossad,Michael Baz-Zohar,nonfiction,history,236,Mauj,fast,female,adult,english,medieval
+168,Jim Corbett Omnibus,Jim Corbett,nonfiction,history,223,Penguin,slow,female,child,english,ancient
+169,20000 Leagues Under the Sea,Jules Verne,fiction,novel,190,Penguin,slow,male,adult,english,medieval
+170,Batatyachi Chal,P L Deshpande,fiction,novel,200,Penguin,medium,male,old,english,modern
+171,Hafasavnuk,P L Deshpande,fiction,novel,211,Random House,fast,female,child,hindi,ancient
+172,Urlasurla,P L Deshpande,fiction,novel,211,Rupa,fast,others,child,english,medieval
+173,Pointers in C,Yashwant Kanetkar,tech,computer_science,213,Random House,slow,male,old,english,ancient
+174,"Cathedral and the Bazaar, The",Eric Raymond,tech,computer_science,217,BBC,slow,male,child,hindi,ancient
+175,Design with OpAmps,Sergio Franco,tech,computer_science,240,Random House,fast,female,child,hindi,medieval
+176,Think Complexity,Allen Downey,tech,data_science,230,Elsevier,fast,male,child,hindi,modern
+177,"Devil's Advocate, The",Morris West,fiction,novel,178,Pearson,slow,female,child,english,modern
+178,Ayn Rand Answers,Ayn Rand,philosophy,objectivism,203,Pearson,fast,male,child,english,ancient
+179,Philosophy: Who Needs It,Ayn Rand,philosophy,objectivism,171,O'Reilly,medium,male,child,english,medieval
+180,"World's Great Thinkers, The",Dan Brown,science,physics,189,Prentice Hall,fast,female,old,hindi,modern
+181,Data Analysis with Open Source Tools,Phillip Janert,tech,data_science,230,Pearson,fast,male,adult,english,medieval
+182,Broca's Brain,Carl Sagan,science,physics,174,TMH,slow,female,old,hindi,medieval
+183,Men of Mathematics,E T Bell,science,mathematics,217,Prentice Hall,medium,others,adult,english,ancient
+184,Oxford book of Modern Science Writing,Richard Dawkins,science,science,240,Random House,fast,others,child,english,ancient
+185,"Justice, Judiciary and Democracy",Sudhanshu Ranjan,nonfiction,legal,224,Penguin,fast,male,adult,hindi,ancient
+186,"Arthashastra, The",Kautiyla,philosophy,philosophy,214,Random House,medium,others,child,english,ancient
+187,We the People,Palkhivala,philosophy,philosophy,216,Picador,slow,male,old,hindi,medieval
+188,We the Nation,Palkhivala,philosophy,philosophy,216,Penguin,fast,male,old,hindi,modern
+189,"Courtroom Genius, The",Sorabjee,nonfiction,autobiography,217,Penguin,fast,others,child,english,medieval
+190,Dongri to Dubai,Hussain Zaidi,nonfiction,history,216,Penguin,fast,male,adult,hindi,modern
+191,"History of England, Foundation",Peter Ackroyd,nonfiction,history,197,Random House,medium,others,old,hindi,medieval
+192,City of Djinns,William Dalrymple,nonfiction,history,198,Pan,medium,female,adult,hindi,modern
+193,India's Legal System,Nariman,nonfiction,legal,177,HarperCollins,medium,female,old,english,modern
+194,More Tears to Cry,Jean Sassoon,fiction,novel,235,Mauj,slow,others,old,english,modern
+195,"Ropemaker, The",Peter Dickinson,fiction,novel,196,Penguin,fast,female,old,english,medieval
+196,Angels & Demons,Dan Brown,fiction,novel,170,Springer,fast,female,adult,english,medieval
+197,"Judge, The",Machiavelli,fiction,novel,170,Mauj,fast,female,child,hindi,medieval
+198,"Attorney, The",Machiavelli,fiction,novel,170,Mauj,slow,male,adult,hindi,ancient
+199,"Prince, The",Machiavelli,fiction,classic,173,Mauj,medium,male,old,english,medieval
+200,Eyeless in Gaza,Aldous Huxley,fiction,novel,180,Mauj,slow,female,old,english,modern
+201,Tales of Beedle the Bard,J K Rowling,fiction,novel,184,HarperCollins,fast,male,child,hindi,modern
+202,Girl with the Dragon Tattoo,Steig Larsson,fiction,novel,179,Mauj,fast,female,adult,english,modern
+203,Girl who kicked the Hornet's Nest,Steig Larsson,fiction,novel,179,Penguin,slow,female,child,hindi,medieval
+204,Girl who played with Fire,Steig Larsson,fiction,novel,179,HarperCollins,fast,female,child,english,ancient
+205,Batman Handbook,Terence Tao,fiction,comic,270,Penguin,slow,others,old,hindi,medieval
+206,Murphy's Law,Steig Larsson,philosophy,psychology,178,vikas,medium,others,child,hindi,modern
+207,Structure and Randomness,Terence Tao,science,mathematics,252,vikas,fast,female,old,english,ancient
+208,Image Processing with MATLAB,Steve Eddins,tech,signal_processing,241,vikas,fast,female,adult,english,ancient
+209,Animal Farm,George Orwell,fiction,classic,180,Penguin,medium,male,old,english,ancient
+210,"Idiot, The",Fyodor Dostoevsky,fiction,classic,197,Routledge,fast,others,old,hindi,modern
+211,"Christmas Carol, A",Charles Dickens,fiction,classic,196,FreePress,slow,female,child,english,ancient
+212,T,Z,science,misc,328,Springer,medium,male,child,hindi,medieval
+213,D,V,philosophy,physics,251,CRC,medium,female,old,english,medieval
+214,S,I,nonfiction,signal_processing,272,Apress,fast,male,old,hindi,ancient
+215,U,N,nonfiction,signal_processing,230,Wiley,slow,male,adult,hindi,modern
+216,I,X,philosophy,economics,270,Springer,medium,female,adult,english,medieval
+217,W,H,fiction,legal,325,Springer,fast,male,old,english,ancient
+218,L,N,nonfiction,computer_science,214,Penguin,medium,female,old,hindi,medieval
+219,K,H,tech,history,329,HarperCollins,medium,others,adult,english,medieval
+220,B,N,philosophy,economics,213,Wiley,slow,others,child,hindi,modern
+221,Z,K,science,psychology,284,Penguin,medium,others,child,hindi,ancient
+222,C,N,science,trivia,317,Springer,medium,female,adult,english,ancient
+223,B,W,philosophy,autobiography,239,Penguin,fast,female,old,hindi,medieval
+224,N,S,tech,history,287,Orient Blackswan,medium,female,child,english,medieval
+225,W,K,tech,computer_science,344,HarperCollins,fast,others,child,english,ancient
+226,E,T,philosophy,misc,177,Penguin,slow,others,old,english,ancient
+227,N,R,philosophy,autobiography,225,Penguin,fast,male,adult,english,modern
+228,I,Z,tech,physics,239,Apress,slow,male,child,english,medieval
+229,X,R,fiction,misc,318,Apress,medium,others,child,hindi,medieval
+230,B,S,philosophy,misc,250,Penguin,medium,male,old,hindi,modern
+231,L,P,fiction,mathematics,168,Wiley,medium,female,old,hindi,medieval
+232,M,H,philosophy,psychology,317,CRC,slow,male,old,hindi,ancient
+233,C,J,philosophy,comic,164,Springer,medium,others,adult,english,medieval
+234,H,O,science,trivia,254,Springer,medium,female,child,english,ancient
+235,M,P,science,classic,316,Wiley,slow,female,old,english,modern
+236,G,A,fiction,computer_science,278,Penguin,slow,others,child,english,modern
+237,B,K,tech,computer_science,237,CRC,slow,male,adult,english,modern
+238,W,Q,tech,misc,253,Wiley,medium,male,old,hindi,modern
+239,X,I,tech,physics,159,Apress,slow,others,adult,hindi,ancient
+240,O,O,nonfiction,computer_science,169,Orient Blackswan,medium,female,child,english,ancient
+241,Z,R,fiction,data_science,342,HarperCollins,fast,others,old,english,modern
+242,V,G,philosophy,classic,200,Wiley,slow,female,old,english,ancient
+243,I,O,science,physics,299,Penguin,medium,others,adult,english,modern
+244,C,O,nonfiction,mathematics,243,Wiley,fast,male,old,hindi,modern
+245,N,O,nonfiction,computer_science,274,Apress,slow,female,old,english,medieval
+246,E,D,tech,data_science,179,Penguin,fast,male,child,english,ancient
+247,K,M,nonfiction,classic,315,Orient Blackswan,medium,others,child,english,medieval
+248,L,V,science,comic,250,Penguin,slow,others,child,hindi,ancient
+249,P,Q,nonfiction,signal_processing,243,Springer,slow,male,old,english,medieval
+250,W,V,nonfiction,trivia,294,Apress,medium,female,old,english,ancient
+251,O,L,fiction,signal_processing,265,Penguin,medium,others,child,english,modern
+252,R,B,tech,comic,330,Apress,slow,others,child,english,modern
+253,Y,I,philosophy,comic,262,Penguin,medium,others,child,hindi,ancient
+254,R,H,nonfiction,signal_processing,306,Springer,slow,male,child,english,modern
+255,G,V,tech,autobiography,219,Springer,slow,female,adult,english,medieval
+256,X,T,tech,trivia,208,CRC,slow,female,adult,english,ancient
+257,V,A,philosophy,history,333,Apress,medium,male,child,english,ancient
+258,T,O,tech,mathematics,294,Wiley,slow,others,child,hindi,medieval
+259,F,U,tech,misc,297,Orient Blackswan,medium,others,old,hindi,modern
+260,V,U,nonfiction,signal_processing,253,CRC,fast,male,old,english,medieval
+261,W,G,philosophy,computer_science,194,Penguin,medium,male,old,hindi,ancient
+262,S,J,science,computer_science,267,Orient Blackswan,fast,female,old,english,medieval
+263,H,D,nonfiction,comic,172,Orient Blackswan,slow,male,adult,english,modern
+264,Y,Q,science,economics,208,Orient Blackswan,medium,female,adult,english,modern
+265,B,Y,tech,physics,324,HarperCollins,medium,others,child,hindi,medieval
+266,T,S,fiction,history,339,Orient Blackswan,fast,others,adult,hindi,medieval
+267,E,S,philosophy,data_science,288,CRC,slow,female,child,english,modern
+268,C,K,tech,legal,163,Wiley,slow,male,adult,english,medieval
+269,S,L,fiction,novel,194,Orient Blackswan,medium,male,adult,hindi,modern
+270,E,A,philosophy,mathematics,297,CRC,fast,male,adult,english,ancient
+271,S,Z,fiction,comic,182,Orient Blackswan,fast,others,old,hindi,medieval
+272,R,E,philosophy,autobiography,338,Apress,medium,others,adult,english,medieval
+273,B,G,fiction,autobiography,300,CRC,slow,female,old,english,medieval
+274,C,P,tech,legal,331,CRC,slow,male,adult,hindi,medieval
+275,V,S,nonfiction,trivia,232,Wiley,fast,male,child,english,medieval
+276,Q,W,science,legal,224,Orient Blackswan,slow,female,adult,hindi,ancient
+277,H,U,tech,signal_processing,160,Wiley,slow,male,adult,english,medieval
+278,I,G,tech,autobiography,349,Orient Blackswan,medium,others,old,english,ancient
+279,D,U,philosophy,misc,276,Wiley,medium,male,adult,english,ancient
+280,Y,L,nonfiction,novel,206,Springer,fast,male,adult,english,ancient
+281,E,C,nonfiction,trivia,294,Springer,fast,female,old,hindi,ancient
+282,R,F,fiction,history,191,Penguin,fast,female,child,hindi,ancient
+283,R,O,fiction,comic,338,Springer,medium,female,adult,hindi,ancient
+284,F,K,philosophy,legal,158,Apress,fast,others,child,hindi,medieval
+285,K,O,fiction,misc,299,Apress,medium,female,adult,english,modern
+286,A,J,fiction,psychology,207,Wiley,slow,others,old,english,medieval
+287,C,D,tech,physics,216,Orient Blackswan,slow,female,adult,hindi,modern
+288,H,P,nonfiction,signal_processing,235,CRC,slow,others,old,hindi,modern
+289,T,Z,tech,legal,151,Wiley,fast,others,child,english,modern
+290,J,Y,science,comic,315,Penguin,medium,female,old,hindi,medieval
+291,C,L,science,novel,338,Orient Blackswan,slow,male,adult,english,ancient
+292,S,F,philosophy,psychology,347,Penguin,medium,male,child,english,ancient
+293,D,J,fiction,misc,232,Wiley,medium,others,adult,english,ancient
+294,M,O,fiction,comic,313,HarperCollins,fast,female,old,hindi,ancient
+295,S,X,nonfiction,autobiography,158,Apress,fast,others,old,english,ancient
+296,E,H,fiction,comic,206,HarperCollins,slow,others,old,english,medieval
+297,H,H,tech,data_science,302,Apress,fast,female,adult,hindi,modern
+298,Z,P,nonfiction,data_science,296,Orient Blackswan,slow,male,old,hindi,ancient
+299,I,U,fiction,economics,219,Penguin,fast,male,adult,english,modern
+300,Z,S,fiction,signal_processing,298,Springer,fast,others,old,english,medieval
+301,D,R,nonfiction,history,244,Penguin,medium,female,adult,english,medieval
+302,C,V,fiction,autobiography,203,Wiley,slow,male,adult,english,medieval
+303,Q,Y,tech,autobiography,286,Penguin,fast,others,adult,hindi,medieval
+304,E,Z,science,history,346,Penguin,medium,male,adult,hindi,ancient
+305,F,M,science,novel,336,Apress,medium,male,old,english,ancient
+306,O,Q,nonfiction,trivia,320,Penguin,slow,male,child,hindi,modern
+307,U,W,tech,economics,220,CRC,fast,female,child,english,medieval
+308,O,G,fiction,legal,299,Apress,slow,female,adult,english,modern
+309,Y,X,nonfiction,history,320,Wiley,slow,male,old,english,ancient
+310,Z,Q,tech,novel,299,CRC,fast,male,old,hindi,modern
+311,O,R,science,novel,155,Penguin,fast,male,old,hindi,modern
+312,C,B,nonfiction,classic,264,Springer,medium,others,old,english,medieval
+313,Q,X,fiction,misc,292,Penguin,fast,female,old,hindi,modern
+314,G,H,philosophy,misc,343,Apress,fast,female,adult,hindi,modern
+315,H,L,nonfiction,classic,272,Springer,fast,female,old,english,modern
+316,C,L,philosophy,novel,242,Wiley,medium,male,old,english,modern
+317,G,S,nonfiction,autobiography,200,Wiley,medium,male,adult,hindi,medieval
+318,L,R,nonfiction,novel,290,Penguin,medium,others,old,english,modern
+319,J,C,nonfiction,signal_processing,327,Apress,medium,male,adult,hindi,medieval
+320,B,R,fiction,autobiography,153,Wiley,medium,female,adult,english,modern
+321,U,R,tech,psychology,255,Springer,slow,female,adult,hindi,medieval
+322,O,N,fiction,novel,267,Springer,slow,female,old,english,ancient
+323,V,Z,tech,psychology,150,HarperCollins,fast,others,child,english,modern
+324,Z,A,tech,autobiography,289,Orient Blackswan,slow,male,child,english,modern
+325,A,C,tech,history,230,CRC,fast,male,old,hindi,ancient
+326,O,Y,nonfiction,computer_science,310,Penguin,fast,female,child,hindi,ancient
+327,F,K,fiction,comic,298,Apress,fast,male,old,english,medieval
+328,H,L,tech,comic,334,Orient Blackswan,fast,female,adult,hindi,ancient
+329,N,Q,fiction,classic,257,CRC,medium,female,child,hindi,medieval
+330,P,E,science,signal_processing,319,HarperCollins,slow,female,adult,hindi,modern
+331,H,F,science,comic,282,Penguin,slow,female,adult,english,modern
+332,Q,H,philosophy,trivia,303,HarperCollins,medium,others,adult,english,ancient
+333,S,Z,tech,autobiography,173,Penguin,fast,others,child,english,medieval
+334,Z,D,science,comic,219,Springer,fast,others,child,hindi,medieval
+335,W,J,tech,novel,299,Penguin,slow,female,child,hindi,ancient
+336,X,N,philosophy,novel,311,HarperCollins,medium,male,child,english,modern
+337,P,T,science,autobiography,189,Wiley,medium,others,child,hindi,ancient
+338,S,H,nonfiction,trivia,321,HarperCollins,slow,male,adult,english,modern
+339,L,T,nonfiction,novel,260,Penguin,slow,female,old,hindi,modern
+340,N,S,tech,history,311,Wiley,fast,male,child,english,modern
+341,R,Z,nonfiction,mathematics,270,Wiley,medium,female,child,english,medieval
+342,Z,N,science,classic,265,Springer,medium,female,old,hindi,modern
+343,Q,T,nonfiction,trivia,225,Orient Blackswan,slow,male,child,hindi,ancient
+344,J,W,science,psychology,213,HarperCollins,fast,others,adult,english,ancient
+345,H,U,fiction,mathematics,210,Springer,medium,male,child,hindi,ancient
+346,Z,H,science,autobiography,299,Penguin,slow,female,child,english,medieval
+347,L,J,nonfiction,computer_science,257,HarperCollins,slow,female,adult,hindi,modern
+348,P,N,science,trivia,212,Springer,slow,others,child,hindi,medieval
+349,L,A,fiction,data_science,239,HarperCollins,fast,others,old,english,ancient
+350,U,O,science,psychology,234,Penguin,slow,female,old,hindi,modern
+351,R,G,philosophy,trivia,167,Springer,medium,male,adult,hindi,ancient
+352,H,R,science,classic,344,Apress,fast,male,adult,english,modern
+353,K,D,tech,comic,151,Orient Blackswan,medium,male,old,hindi,modern
+354,M,F,philosophy,signal_processing,168,CRC,fast,others,old,english,ancient
+355,H,T,science,classic,284,Springer,slow,others,old,hindi,modern
+356,K,F,nonfiction,physics,184,Penguin,fast,male,old,hindi,ancient
+357,C,G,nonfiction,psychology,280,Apress,fast,male,old,english,medieval
+358,O,D,philosophy,economics,184,Penguin,medium,male,child,english,medieval
+359,U,S,nonfiction,computer_science,168,Wiley,slow,male,child,hindi,ancient
+360,P,W,philosophy,comic,187,CRC,fast,female,old,english,ancient
+361,E,H,fiction,trivia,153,CRC,fast,others,adult,english,medieval
+362,B,X,science,economics,253,Penguin,fast,others,old,hindi,modern
+363,H,F,science,legal,292,Wiley,medium,others,old,hindi,ancient
+364,W,I,science,history,328,Penguin,fast,female,old,english,modern
+365,C,C,nonfiction,signal_processing,322,CRC,fast,female,child,hindi,medieval
+366,F,Q,philosophy,classic,241,Penguin,medium,female,child,hindi,medieval
+367,T,X,fiction,economics,290,Penguin,fast,others,child,hindi,modern
+368,S,Y,tech,signal_processing,313,CRC,medium,female,adult,hindi,modern
+369,X,X,tech,mathematics,165,Orient Blackswan,slow,female,adult,english,ancient
+370,G,R,fiction,trivia,200,Springer,medium,female,child,hindi,medieval
+371,H,S,science,misc,227,CRC,slow,others,old,english,medieval
+372,Q,W,nonfiction,misc,237,CRC,slow,male,old,hindi,medieval
+373,H,E,tech,autobiography,316,Wiley,medium,male,old,hindi,ancient
+374,Z,O,tech,legal,302,Penguin,medium,others,child,english,modern
+375,Z,U,science,mathematics,300,Wiley,medium,male,adult,english,modern
+376,P,Y,fiction,trivia,328,Springer,medium,female,adult,hindi,ancient
+377,Z,V,nonfiction,novel,252,Springer,slow,others,child,hindi,ancient
+378,K,G,tech,novel,159,HarperCollins,slow,female,old,hindi,ancient
+379,E,N,nonfiction,computer_science,191,Wiley,medium,male,adult,english,ancient
+380,M,X,philosophy,signal_processing,293,Apress,medium,others,adult,english,medieval
+381,H,U,science,comic,243,Springer,medium,female,old,hindi,modern
+382,X,W,nonfiction,signal_processing,160,Orient Blackswan,slow,female,child,english,medieval
+383,T,O,fiction,classic,288,CRC,medium,male,child,hindi,medieval
+384,T,X,fiction,data_science,197,Penguin,medium,female,adult,hindi,medieval
+385,M,B,tech,autobiography,330,Penguin,slow,male,child,hindi,modern
+386,C,H,philosophy,history,174,HarperCollins,medium,others,child,english,ancient
+387,E,F,science,mathematics,231,Orient Blackswan,fast,male,child,hindi,modern
+388,O,J,nonfiction,computer_science,261,Penguin,medium,female,old,english,ancient
+389,R,N,philosophy,novel,208,Orient Blackswan,slow,female,child,hindi,modern
+390,Y,Z,science,data_science,201,Orient Blackswan,slow,female,old,english,modern
+391,G,F,tech,mathematics,298,Penguin,fast,others,child,hindi,ancient
+392,V,W,nonfiction,economics,163,Penguin,medium,male,old,hindi,ancient
+393,B,Z,nonfiction,history,304,Apress,slow,male,adult,english,ancient
+394,P,N,nonfiction,mathematics,241,Penguin,medium,others,old,hindi,medieval
+395,T,F,tech,legal,342,Springer,fast,others,old,english,medieval
+396,F,B,fiction,misc,228,Orient Blackswan,fast,others,adult,english,medieval
+397,V,D,nonfiction,signal_processing,284,Springer,medium,male,child,english,modern
+398,O,E,fiction,mathematics,282,Apress,slow,female,child,english,ancient
+399,Z,Z,tech,history,344,Penguin,medium,female,adult,english,medieval
+400,S,B,philosophy,physics,299,HarperCollins,slow,male,old,hindi,modern
+401,W,V,philosophy,psychology,332,Penguin,slow,male,child,english,modern
+402,H,S,philosophy,signal_processing,221,Penguin,fast,male,adult,hindi,ancient
+403,J,Z,nonfiction,classic,187,Wiley,medium,male,adult,english,medieval
+404,D,Z,tech,computer_science,250,Springer,fast,others,child,english,ancient
+405,G,G,philosophy,classic,325,Orient Blackswan,fast,female,adult,english,ancient
+406,K,W,philosophy,signal_processing,289,Wiley,medium,male,adult,hindi,medieval
+407,U,A,science,data_science,181,Wiley,slow,female,adult,english,modern
+408,H,D,tech,legal,179,Penguin,slow,female,old,english,ancient
+409,X,C,tech,novel,299,HarperCollins,fast,male,adult,hindi,medieval
+410,B,P,fiction,legal,174,Penguin,fast,others,child,hindi,modern
+411,T,A,tech,legal,323,Wiley,slow,male,child,english,modern
+412,G,Y,nonfiction,misc,344,CRC,medium,others,adult,english,ancient
+413,Y,L,philosophy,legal,184,CRC,medium,male,adult,english,ancient
+414,P,Q,tech,computer_science,261,CRC,slow,female,adult,english,medieval
+415,Z,X,science,history,191,Wiley,fast,female,child,english,modern
+416,M,P,fiction,novel,165,Penguin,slow,male,old,english,ancient
+417,R,Z,tech,mathematics,237,Wiley,slow,female,old,hindi,medieval
+418,D,E,nonfiction,novel,224,Orient Blackswan,fast,female,old,hindi,medieval
+419,D,Y,science,computer_science,276,Springer,slow,others,adult,hindi,medieval
+420,K,M,philosophy,trivia,247,CRC,medium,male,old,english,modern
+421,D,G,philosophy,signal_processing,228,HarperCollins,medium,male,adult,english,medieval
+422,L,G,fiction,novel,224,Orient Blackswan,slow,female,old,hindi,modern
+423,H,J,nonfiction,psychology,260,Penguin,medium,male,adult,english,ancient
+424,G,F,tech,history,334,Penguin,slow,female,child,hindi,medieval
+425,A,T,philosophy,data_science,267,CRC,slow,others,old,english,medieval
+426,A,Q,nonfiction,misc,252,CRC,fast,male,adult,hindi,medieval
+427,O,G,nonfiction,novel,213,CRC,slow,female,child,english,medieval
+428,V,W,tech,mathematics,202,Penguin,slow,others,old,hindi,ancient
+429,O,U,philosophy,computer_science,336,Orient Blackswan,slow,male,adult,english,medieval
+430,N,I,fiction,economics,159,Penguin,slow,others,adult,hindi,modern
+431,Q,Z,tech,misc,303,Orient Blackswan,fast,others,adult,hindi,medieval
+432,K,Q,fiction,economics,319,Penguin,fast,male,old,hindi,ancient
+433,W,C,nonfiction,history,230,Penguin,medium,female,old,hindi,ancient
+434,B,Z,philosophy,physics,340,Orient Blackswan,medium,male,adult,english,modern
+435,Q,R,fiction,physics,171,Orient Blackswan,slow,others,adult,english,modern
+436,F,K,nonfiction,trivia,157,Wiley,slow,male,child,english,ancient
+437,L,X,philosophy,physics,232,Orient Blackswan,medium,others,child,hindi,ancient
+438,K,T,science,trivia,202,Orient Blackswan,fast,female,old,hindi,medieval
+439,M,P,philosophy,data_science,187,Penguin,medium,female,old,hindi,medieval
+440,K,B,fiction,autobiography,333,Apress,fast,male,adult,hindi,modern
+441,L,J,nonfiction,physics,226,CRC,slow,male,adult,english,ancient
+442,G,R,tech,autobiography,160,HarperCollins,slow,others,adult,english,ancient
+443,Q,B,science,misc,327,CRC,slow,others,child,english,modern
+444,M,W,tech,signal_processing,261,Springer,fast,male,old,hindi,medieval
+445,V,H,tech,classic,223,Wiley,slow,male,child,english,medieval
+446,Q,Y,nonfiction,data_science,321,CRC,slow,male,old,english,modern
+447,A,L,fiction,signal_processing,276,CRC,medium,female,adult,hindi,modern
+448,O,G,nonfiction,autobiography,262,Penguin,medium,others,old,english,medieval
+449,V,F,science,autobiography,347,Penguin,slow,male,adult,english,medieval
+450,D,M,philosophy,psychology,202,HarperCollins,fast,male,child,hindi,medieval
+451,Z,V,tech,trivia,159,Apress,fast,others,old,hindi,medieval
+452,B,L,tech,autobiography,225,Orient Blackswan,fast,male,child,hindi,ancient
+453,O,S,fiction,comic,228,Wiley,slow,male,adult,english,medieval
+454,G,E,fiction,novel,221,Wiley,fast,female,child,english,medieval
+455,H,Q,nonfiction,history,210,Apress,medium,others,child,hindi,modern
+456,R,N,nonfiction,legal,346,CRC,slow,others,child,hindi,ancient
+457,J,U,science,economics,276,CRC,slow,female,child,english,ancient
+458,V,Y,science,economics,225,Orient Blackswan,slow,female,child,english,ancient
+459,M,L,fiction,autobiography,198,Penguin,medium,others,child,hindi,modern
+460,Z,Q,tech,physics,262,Springer,fast,female,old,hindi,medieval
+461,L,I,nonfiction,novel,234,Apress,fast,female,old,english,ancient
+462,C,L,tech,history,303,CRC,fast,male,old,hindi,ancient
+463,M,G,fiction,history,183,Orient Blackswan,fast,others,old,hindi,ancient
+464,J,K,fiction,economics,266,HarperCollins,fast,male,adult,english,medieval
+465,F,M,tech,classic,294,Penguin,medium,female,child,hindi,ancient
+466,C,A,tech,computer_science,157,HarperCollins,fast,others,child,english,modern
+467,O,W,fiction,psychology,273,HarperCollins,slow,male,old,hindi,medieval
+468,T,J,philosophy,novel,328,Wiley,medium,male,child,hindi,medieval
+469,M,T,science,autobiography,209,Apress,fast,others,child,hindi,ancient
+470,B,L,fiction,novel,262,Penguin,medium,others,child,hindi,modern
+471,D,K,nonfiction,data_science,311,Wiley,slow,male,child,hindi,medieval
+472,A,E,tech,physics,238,CRC,medium,others,adult,english,medieval
+473,J,C,fiction,signal_processing,272,Orient Blackswan,slow,female,adult,hindi,medieval
+474,U,L,tech,history,288,CRC,medium,male,adult,hindi,modern
+475,O,B,science,mathematics,349,HarperCollins,fast,male,adult,english,ancient
+476,G,L,nonfiction,computer_science,297,CRC,medium,others,old,english,ancient
+477,M,L,fiction,psychology,211,Springer,fast,others,child,english,medieval
+478,Q,O,nonfiction,physics,227,Wiley,fast,others,child,english,ancient
+479,W,S,fiction,computer_science,209,Apress,fast,others,adult,hindi,modern
+480,H,Q,science,psychology,209,Apress,slow,others,old,hindi,medieval
+481,U,C,nonfiction,legal,231,Penguin,slow,male,adult,hindi,modern
+482,X,P,nonfiction,data_science,170,CRC,fast,others,child,english,ancient
+483,I,D,philosophy,psychology,284,Springer,medium,male,child,hindi,modern
+484,K,U,science,economics,309,Penguin,slow,female,old,english,medieval
+485,G,T,science,autobiography,242,CRC,slow,male,adult,hindi,ancient
+486,S,V,nonfiction,data_science,296,Penguin,slow,female,adult,hindi,medieval
+487,B,J,tech,physics,305,Penguin,medium,female,child,english,modern
+488,P,P,tech,history,320,Orient Blackswan,medium,others,old,hindi,ancient
+489,P,W,fiction,comic,323,Penguin,fast,others,old,english,ancient
+490,Q,V,nonfiction,mathematics,305,Penguin,medium,female,child,english,medieval
+491,O,F,nonfiction,computer_science,232,Penguin,fast,male,old,hindi,modern
+492,C,E,science,history,207,Wiley,fast,female,child,hindi,medieval
+493,U,G,fiction,legal,259,Penguin,medium,female,adult,english,modern
+494,A,O,philosophy,mathematics,218,CRC,slow,male,adult,english,ancient
+495,M,R,philosophy,legal,275,HarperCollins,medium,female,adult,english,modern
+496,A,S,fiction,psychology,155,Orient Blackswan,medium,female,adult,english,ancient
+497,E,O,philosophy,data_science,225,Wiley,slow,female,old,hindi,ancient
+498,A,N,nonfiction,history,199,Springer,fast,others,old,english,ancient
+499,T,D,nonfiction,comic,333,Orient Blackswan,fast,others,child,english,modern
+500,T,J,nonfiction,data_science,236,Apress,medium,male,child,hindi,medieval
+501,D,B,science,misc,263,Apress,medium,others,old,english,ancient
+502,W,N,nonfiction,psychology,246,Orient Blackswan,slow,male,adult,hindi,ancient
+503,V,O,nonfiction,economics,324,Orient Blackswan,medium,others,child,english,modern
+504,O,D,tech,economics,186,Orient Blackswan,slow,female,adult,english,modern
+505,S,Y,nonfiction,trivia,184,Penguin,fast,female,old,hindi,modern
+506,J,P,tech,comic,275,Wiley,medium,male,adult,english,medieval
+507,W,P,nonfiction,data_science,333,Penguin,slow,female,adult,hindi,ancient
+508,E,L,fiction,novel,246,Apress,slow,male,adult,english,modern
+509,Z,F,philosophy,classic,304,Wiley,fast,male,old,hindi,medieval
+510,V,J,fiction,signal_processing,345,HarperCollins,slow,female,old,english,ancient
+511,O,E,tech,computer_science,257,CRC,medium,male,child,english,ancient
+512,V,I,nonfiction,comic,185,Penguin,medium,female,adult,hindi,modern
+513,S,Y,science,data_science,165,Wiley,medium,male,child,hindi,medieval
+514,Y,H,tech,trivia,343,Penguin,medium,female,adult,english,ancient
+515,I,E,science,signal_processing,345,CRC,slow,male,adult,english,medieval
+516,Y,T,fiction,data_science,257,CRC,slow,others,old,hindi,modern
+517,Q,F,nonfiction,comic,290,CRC,slow,male,child,english,medieval
+518,L,O,science,mathematics,252,Wiley,fast,female,adult,hindi,ancient
+519,P,I,fiction,psychology,227,Penguin,slow,others,old,hindi,modern
+520,I,D,philosophy,physics,263,Apress,medium,others,child,hindi,modern
+521,B,L,tech,history,160,Penguin,fast,others,child,english,ancient
+522,G,P,science,economics,262,Springer,slow,male,adult,english,medieval
+523,K,H,tech,psychology,273,Apress,fast,female,child,hindi,ancient
+524,W,R,fiction,economics,221,Springer,fast,others,adult,english,modern
+525,I,D,science,computer_science,282,HarperCollins,fast,others,child,hindi,ancient
+526,Y,A,tech,history,198,Penguin,medium,male,child,english,modern
+527,Y,L,philosophy,autobiography,178,Penguin,medium,male,child,hindi,modern
+528,N,T,tech,classic,309,HarperCollins,medium,male,child,hindi,ancient
+529,B,Q,nonfiction,autobiography,199,Orient Blackswan,fast,female,child,hindi,ancient
+530,R,O,philosophy,classic,313,Apress,medium,others,adult,hindi,medieval
+531,G,D,nonfiction,novel,195,HarperCollins,medium,female,child,english,modern
+532,G,R,tech,comic,313,Orient Blackswan,fast,male,child,english,medieval
+533,P,B,tech,economics,209,Springer,slow,male,old,hindi,modern
+534,B,R,science,mathematics,322,Apress,slow,female,adult,hindi,modern
+535,V,W,nonfiction,signal_processing,301,HarperCollins,medium,others,adult,english,medieval
+536,I,B,fiction,computer_science,195,Wiley,slow,others,old,hindi,modern
+537,M,I,nonfiction,legal,199,Apress,medium,male,child,english,medieval
+538,T,L,tech,physics,284,Orient Blackswan,medium,female,old,english,medieval
+539,O,O,philosophy,classic,243,Apress,medium,male,adult,english,medieval
+540,N,P,nonfiction,comic,154,Wiley,fast,male,child,hindi,ancient
+541,O,W,science,data_science,231,Apress,slow,others,old,hindi,ancient
+542,C,S,tech,misc,150,CRC,medium,female,adult,hindi,modern
+543,J,X,fiction,physics,341,Penguin,fast,others,old,hindi,ancient
+544,H,W,nonfiction,physics,247,Apress,slow,male,old,hindi,modern
+545,D,C,tech,classic,344,Penguin,medium,others,child,english,modern
+546,T,C,nonfiction,mathematics,288,HarperCollins,slow,others,adult,hindi,medieval
+547,H,R,philosophy,trivia,154,Orient Blackswan,fast,others,old,english,medieval
+548,T,J,tech,economics,236,Apress,slow,others,child,hindi,modern
+549,E,S,science,history,343,HarperCollins,medium,female,child,hindi,medieval
+550,X,B,philosophy,data_science,184,Penguin,slow,female,adult,english,ancient
+551,D,M,philosophy,history,301,Apress,fast,others,old,hindi,medieval
+552,G,D,science,autobiography,153,Orient Blackswan,medium,male,adult,hindi,medieval
+553,D,R,science,misc,248,Orient Blackswan,slow,male,old,hindi,modern
+554,Q,V,philosophy,physics,224,CRC,slow,female,old,hindi,modern
+555,E,W,science,history,176,Penguin,medium,others,old,english,modern
+556,L,W,philosophy,physics,180,Wiley,slow,others,old,hindi,modern
+557,O,W,tech,computer_science,225,Wiley,slow,male,child,english,modern
+558,C,H,science,history,156,Penguin,fast,male,adult,english,medieval
+559,A,S,tech,signal_processing,339,HarperCollins,slow,others,old,english,medieval
+560,R,M,nonfiction,novel,226,Orient Blackswan,medium,female,child,english,medieval
+561,T,V,fiction,mathematics,319,HarperCollins,medium,female,old,english,medieval
+562,G,V,nonfiction,signal_processing,336,Springer,slow,female,adult,hindi,ancient
+563,Y,F,fiction,misc,189,HarperCollins,fast,others,child,hindi,ancient
+564,K,Y,science,classic,330,CRC,medium,female,old,english,medieval
+565,J,O,tech,physics,260,Springer,fast,others,old,hindi,ancient
+566,T,B,nonfiction,misc,340,Springer,slow,female,old,english,medieval
+567,U,B,science,history,175,CRC,slow,female,old,english,ancient
+568,X,Y,fiction,physics,262,Penguin,medium,others,child,hindi,modern
+569,O,P,fiction,comic,227,Penguin,fast,others,old,english,medieval
+570,L,R,science,mathematics,221,CRC,medium,others,child,hindi,modern
+571,L,N,science,classic,218,Penguin,slow,male,adult,hindi,ancient
+572,D,N,tech,computer_science,308,Wiley,slow,others,adult,english,medieval
+573,N,K,fiction,computer_science,221,Springer,slow,male,old,hindi,modern
+574,W,L,philosophy,autobiography,209,Apress,slow,male,adult,hindi,ancient
+575,M,K,fiction,novel,205,Apress,fast,male,adult,hindi,ancient
+576,Q,O,fiction,psychology,167,Orient Blackswan,medium,male,child,english,modern
+577,P,P,tech,trivia,348,Penguin,slow,male,old,hindi,medieval
+578,T,B,nonfiction,economics,162,Orient Blackswan,fast,others,adult,english,medieval
+579,M,X,fiction,signal_processing,205,Springer,fast,male,adult,english,medieval
+580,T,H,philosophy,classic,341,Penguin,fast,female,child,english,ancient
+581,Q,F,tech,misc,348,CRC,fast,others,child,hindi,medieval
+582,R,J,philosophy,psychology,157,Penguin,slow,others,child,english,modern
+583,Z,M,tech,classic,296,Wiley,slow,others,adult,english,ancient
+584,V,W,fiction,legal,246,Penguin,slow,others,child,english,medieval
+585,J,E,philosophy,legal,183,HarperCollins,medium,others,adult,english,modern
+586,D,I,philosophy,trivia,274,Penguin,slow,others,old,hindi,modern
+587,J,U,nonfiction,data_science,228,Penguin,fast,female,child,english,modern
+588,Y,C,fiction,psychology,210,HarperCollins,slow,others,adult,hindi,ancient
+589,H,P,fiction,signal_processing,280,Springer,slow,male,child,english,medieval
+590,J,M,nonfiction,autobiography,217,CRC,slow,female,adult,hindi,ancient
+591,R,Q,philosophy,history,287,Apress,slow,male,child,english,medieval
+592,C,M,fiction,mathematics,201,CRC,medium,others,child,english,modern
+593,Q,H,science,autobiography,155,HarperCollins,fast,male,old,hindi,ancient
+594,P,V,philosophy,signal_processing,326,HarperCollins,medium,others,child,hindi,medieval
+595,N,M,nonfiction,signal_processing,181,Orient Blackswan,slow,male,old,hindi,ancient
+596,B,X,philosophy,economics,266,CRC,slow,male,adult,english,medieval
+597,K,Z,tech,misc,269,CRC,fast,others,adult,english,modern
+598,J,P,philosophy,psychology,158,Penguin,medium,male,old,hindi,medieval
+599,Z,V,philosophy,history,178,HarperCollins,slow,female,child,english,ancient
+600,Z,O,fiction,physics,298,Wiley,fast,others,child,hindi,ancient
+601,U,G,nonfiction,novel,181,Penguin,slow,others,old,hindi,medieval
+602,M,L,science,mathematics,246,Orient Blackswan,medium,female,adult,english,ancient
+603,C,D,science,legal,208,Wiley,medium,others,child,hindi,modern
+604,K,S,science,computer_science,253,Orient Blackswan,slow,male,child,english,ancient
+605,I,Y,fiction,trivia,257,Springer,medium,male,child,english,medieval
+606,Q,P,tech,novel,264,Wiley,fast,others,old,hindi,modern
+607,A,G,nonfiction,economics,222,HarperCollins,fast,male,child,hindi,modern
+608,X,N,nonfiction,comic,255,Orient Blackswan,fast,male,child,hindi,modern
+609,J,T,nonfiction,mathematics,228,Orient Blackswan,slow,others,adult,english,ancient
+610,O,F,nonfiction,economics,278,Apress,fast,male,adult,hindi,medieval
+611,Q,W,tech,economics,198,Wiley,slow,others,adult,english,medieval
+612,C,Y,tech,psychology,178,Penguin,medium,others,old,english,modern
+613,I,O,nonfiction,signal_processing,237,HarperCollins,medium,male,child,english,medieval
+614,S,I,nonfiction,mathematics,296,Wiley,medium,others,child,hindi,medieval
+615,Z,U,fiction,history,274,CRC,fast,others,old,hindi,medieval
+616,R,V,nonfiction,signal_processing,222,Springer,medium,others,adult,english,medieval
+617,X,S,tech,comic,172,HarperCollins,medium,others,child,hindi,medieval
+618,I,Q,philosophy,psychology,152,HarperCollins,slow,female,child,hindi,ancient
+619,R,X,philosophy,comic,283,CRC,slow,female,child,english,medieval
+620,F,J,tech,history,302,CRC,fast,others,adult,english,modern
+621,S,D,nonfiction,legal,171,Wiley,fast,male,adult,hindi,ancient
+622,J,Q,fiction,data_science,220,CRC,medium,others,child,english,ancient
+623,H,V,science,legal,305,Orient Blackswan,medium,others,adult,hindi,modern
+624,K,M,philosophy,legal,176,HarperCollins,fast,male,child,english,medieval
+625,Y,L,nonfiction,data_science,348,Wiley,medium,others,old,english,medieval
+626,U,J,philosophy,legal,288,HarperCollins,fast,male,old,english,ancient
+627,N,K,science,physics,244,Penguin,medium,female,child,hindi,ancient
+628,J,K,fiction,history,219,CRC,medium,others,child,hindi,modern
+629,E,A,fiction,misc,249,Orient Blackswan,slow,male,adult,english,medieval
+630,M,H,science,computer_science,272,Penguin,slow,others,child,english,medieval
+631,I,A,tech,psychology,167,CRC,fast,female,adult,english,ancient
+632,A,I,philosophy,misc,280,Apress,medium,male,old,english,ancient
+633,Y,S,philosophy,autobiography,320,Wiley,slow,female,old,hindi,modern
+634,M,G,science,psychology,226,Apress,slow,female,adult,english,ancient
+635,K,B,fiction,physics,335,Springer,slow,male,old,hindi,modern
+636,G,Q,fiction,trivia,228,Orient Blackswan,fast,others,child,english,medieval
+637,C,V,philosophy,comic,292,Apress,slow,male,old,english,ancient
+638,N,J,science,history,208,Apress,slow,male,old,english,medieval
+639,F,F,science,autobiography,285,HarperCollins,slow,female,adult,english,ancient
+640,N,O,tech,classic,322,Springer,fast,female,child,hindi,medieval
+641,B,P,tech,legal,288,CRC,medium,female,adult,english,ancient
+642,W,B,fiction,economics,334,Penguin,fast,female,old,hindi,modern
+643,R,M,tech,misc,150,Apress,fast,male,old,english,medieval
+644,L,F,fiction,signal_processing,175,Wiley,medium,others,adult,hindi,modern
+645,O,L,science,psychology,232,Penguin,fast,male,child,hindi,medieval
+646,R,I,science,signal_processing,226,Orient Blackswan,slow,female,old,hindi,ancient
+647,D,C,fiction,novel,247,Orient Blackswan,medium,others,child,english,medieval
+648,L,F,fiction,trivia,255,Orient Blackswan,medium,others,adult,hindi,modern
+649,Z,Z,fiction,computer_science,180,Apress,fast,others,child,hindi,ancient
+650,U,A,fiction,history,332,Penguin,slow,female,adult,english,ancient
+651,Q,O,science,classic,159,Springer,slow,male,old,hindi,ancient
+652,T,C,science,comic,201,Apress,slow,male,old,hindi,medieval
+653,F,Q,philosophy,psychology,202,Penguin,slow,female,old,hindi,medieval
+654,A,J,fiction,psychology,315,Penguin,fast,others,adult,hindi,ancient
+655,D,Q,science,misc,227,HarperCollins,medium,female,child,english,ancient
+656,E,D,nonfiction,classic,153,Penguin,slow,female,old,english,medieval
+657,W,U,nonfiction,comic,205,Penguin,medium,male,child,english,ancient
+658,R,C,tech,classic,274,Penguin,medium,male,adult,english,medieval
+659,P,Q,science,mathematics,174,Wiley,slow,male,old,english,medieval
+660,C,U,philosophy,autobiography,304,Wiley,slow,female,old,hindi,ancient
+661,F,K,science,misc,196,CRC,fast,others,old,hindi,ancient
+662,Z,S,philosophy,autobiography,344,CRC,fast,others,old,hindi,medieval
+663,D,D,science,history,235,Apress,slow,female,adult,hindi,ancient
+664,G,E,fiction,history,319,CRC,slow,others,old,hindi,modern
+665,N,Y,science,computer_science,172,Orient Blackswan,slow,female,child,english,modern
+666,N,G,nonfiction,psychology,220,Springer,fast,others,child,hindi,modern
+667,O,X,fiction,novel,197,Penguin,fast,others,child,hindi,ancient
+668,R,U,fiction,mathematics,266,Springer,fast,others,old,hindi,ancient
+669,A,P,science,physics,230,Penguin,slow,male,child,english,modern
+670,U,C,nonfiction,signal_processing,284,CRC,slow,male,adult,english,modern
+671,E,I,nonfiction,autobiography,238,Wiley,slow,female,adult,hindi,modern
+672,E,G,science,physics,168,Penguin,medium,female,child,hindi,ancient
+673,S,G,philosophy,trivia,268,Penguin,medium,female,adult,hindi,medieval
+674,Y,X,nonfiction,history,190,Apress,slow,male,child,hindi,medieval
+675,P,M,philosophy,physics,345,Penguin,slow,female,old,english,ancient
+676,G,T,nonfiction,autobiography,303,Springer,slow,female,child,hindi,medieval
+677,P,F,science,misc,218,Orient Blackswan,fast,female,adult,hindi,modern
+678,U,O,fiction,data_science,195,CRC,slow,female,child,hindi,medieval
+679,T,Z,science,economics,208,HarperCollins,slow,others,adult,english,medieval
+680,Q,E,tech,physics,248,Springer,slow,male,old,hindi,ancient
+681,R,Q,philosophy,comic,177,HarperCollins,medium,others,old,english,modern
+682,M,N,nonfiction,data_science,217,CRC,fast,male,adult,english,medieval
+683,K,I,fiction,classic,299,Springer,medium,female,adult,hindi,modern
+684,W,I,nonfiction,mathematics,182,Penguin,medium,female,old,english,medieval
+685,M,Z,science,novel,334,Apress,slow,others,child,english,medieval
+686,P,B,tech,trivia,328,CRC,slow,male,old,hindi,ancient
+687,C,O,fiction,signal_processing,185,Orient Blackswan,slow,others,old,hindi,modern
+688,I,T,tech,history,190,HarperCollins,slow,female,adult,english,ancient
+689,I,D,tech,autobiography,252,Penguin,slow,male,child,english,modern
+690,T,E,philosophy,mathematics,209,Orient Blackswan,medium,male,old,hindi,ancient
+691,L,Q,science,history,344,HarperCollins,medium,others,child,english,ancient
+692,Q,P,fiction,misc,251,Apress,slow,female,child,hindi,modern
+693,S,W,philosophy,mathematics,203,Penguin,fast,female,adult,hindi,modern
+694,Q,T,nonfiction,data_science,181,HarperCollins,fast,others,child,english,medieval
+695,W,U,tech,autobiography,220,Orient Blackswan,slow,female,child,hindi,modern
+696,F,X,tech,signal_processing,177,Penguin,medium,others,child,hindi,ancient
+697,D,B,nonfiction,classic,204,CRC,slow,female,adult,hindi,modern
+698,M,T,science,signal_processing,219,Penguin,medium,male,child,hindi,ancient
+699,W,R,fiction,physics,293,Orient Blackswan,fast,others,child,hindi,medieval
+700,E,Q,philosophy,autobiography,284,Penguin,slow,others,old,english,modern
+701,G,V,fiction,novel,153,Apress,slow,female,old,hindi,modern
+702,D,B,science,mathematics,181,CRC,medium,female,adult,english,ancient
+703,K,Z,science,mathematics,255,HarperCollins,fast,female,old,hindi,modern
+704,Y,D,fiction,mathematics,224,Wiley,medium,others,adult,hindi,modern
+705,B,Y,science,computer_science,173,Orient Blackswan,slow,female,child,english,medieval
+706,B,L,science,economics,202,Penguin,medium,male,old,english,ancient
+707,G,Z,science,trivia,177,Springer,slow,others,adult,hindi,ancient
+708,Q,E,nonfiction,trivia,241,HarperCollins,medium,male,adult,english,medieval
+709,W,B,tech,misc,247,HarperCollins,slow,others,child,english,medieval
+710,A,A,nonfiction,psychology,187,CRC,medium,female,child,english,medieval
+711,I,K,fiction,misc,339,Apress,fast,male,child,english,modern
+712,N,U,fiction,autobiography,275,Springer,slow,others,old,english,medieval
+713,O,N,science,novel,254,Springer,slow,female,old,hindi,medieval
+714,U,T,philosophy,trivia,240,Penguin,medium,male,adult,english,modern
+715,L,E,philosophy,mathematics,307,Apress,fast,female,child,hindi,ancient
+716,A,O,fiction,classic,239,Penguin,medium,female,child,hindi,ancient
+717,K,W,science,psychology,219,Penguin,medium,female,adult,english,modern
+718,Q,S,fiction,physics,294,Springer,slow,female,child,english,ancient
+719,K,K,tech,mathematics,231,Orient Blackswan,slow,others,adult,english,ancient
+720,U,Z,philosophy,psychology,273,HarperCollins,fast,others,old,english,ancient
+721,J,Y,fiction,economics,305,Penguin,medium,others,old,english,medieval
+722,X,A,science,classic,225,Wiley,slow,male,old,hindi,medieval
+723,K,P,nonfiction,autobiography,326,Penguin,fast,male,child,english,modern
+724,C,X,philosophy,classic,311,Orient Blackswan,fast,male,old,english,medieval
+725,N,V,tech,novel,209,HarperCollins,medium,others,child,hindi,medieval
+726,I,L,tech,data_science,196,CRC,medium,others,child,english,modern
+727,J,U,philosophy,computer_science,338,CRC,fast,male,old,english,medieval
+728,R,W,nonfiction,classic,263,Wiley,slow,female,old,hindi,ancient
+729,V,E,science,data_science,217,Apress,slow,male,adult,hindi,ancient
+730,G,L,fiction,autobiography,282,Penguin,fast,male,child,hindi,modern
+731,X,O,nonfiction,legal,349,Penguin,medium,female,adult,english,ancient
+732,D,B,nonfiction,autobiography,173,CRC,medium,others,adult,hindi,ancient
+733,L,M,philosophy,mathematics,265,Penguin,medium,others,old,english,ancient
+734,J,N,fiction,autobiography,254,Penguin,fast,male,adult,english,ancient
+735,E,H,nonfiction,economics,247,CRC,medium,female,old,hindi,modern
+736,M,L,fiction,data_science,289,Apress,slow,female,old,hindi,ancient
+737,K,A,nonfiction,misc,307,CRC,medium,female,child,hindi,ancient
+738,M,G,philosophy,psychology,226,Penguin,fast,female,old,hindi,ancient
+739,E,R,philosophy,economics,332,Penguin,fast,female,adult,english,medieval
+740,I,E,philosophy,novel,156,Wiley,slow,female,old,hindi,medieval
+741,O,G,philosophy,misc,263,Penguin,slow,male,old,hindi,ancient
+742,M,B,fiction,legal,322,Wiley,medium,others,old,hindi,ancient
+743,V,A,fiction,novel,281,Springer,slow,male,old,english,ancient
+744,C,V,fiction,trivia,319,CRC,medium,female,old,hindi,medieval
+745,J,W,tech,data_science,164,Penguin,medium,others,child,english,modern
+746,J,E,fiction,physics,190,Springer,slow,female,old,english,medieval
+747,E,K,fiction,data_science,160,Penguin,slow,female,old,hindi,medieval
+748,T,S,science,computer_science,233,Springer,slow,female,old,english,ancient
+749,Z,Z,philosophy,trivia,286,Wiley,slow,male,old,hindi,medieval
+750,P,W,science,economics,241,Apress,fast,female,adult,english,modern
+751,N,S,science,economics,309,CRC,medium,female,child,hindi,ancient
+752,I,X,philosophy,computer_science,242,HarperCollins,slow,male,child,english,ancient
+753,M,Y,nonfiction,physics,269,Apress,slow,female,child,hindi,medieval
+754,A,J,fiction,comic,285,Apress,fast,others,child,english,ancient
+755,M,U,philosophy,misc,155,Apress,slow,female,old,english,modern
+756,C,T,fiction,physics,328,Penguin,slow,female,adult,hindi,modern
+757,I,W,science,psychology,284,CRC,medium,others,adult,hindi,ancient
+758,W,O,philosophy,trivia,343,Orient Blackswan,slow,others,old,hindi,ancient
+759,V,R,fiction,novel,241,Penguin,medium,male,adult,hindi,ancient
+760,F,A,nonfiction,novel,303,Orient Blackswan,fast,male,child,hindi,ancient
+761,E,B,nonfiction,economics,227,Wiley,fast,male,old,hindi,medieval
+762,U,F,science,classic,240,HarperCollins,medium,others,old,english,ancient
+763,L,D,tech,novel,326,Springer,fast,others,adult,hindi,ancient
+764,P,Q,tech,psychology,343,HarperCollins,fast,male,adult,english,medieval
+765,D,V,nonfiction,legal,297,Orient Blackswan,fast,others,adult,english,ancient
+766,R,M,fiction,mathematics,175,HarperCollins,fast,female,adult,hindi,medieval
+767,B,B,science,computer_science,234,Penguin,medium,female,adult,english,medieval
+768,P,V,tech,mathematics,206,Penguin,slow,female,old,english,ancient
+769,D,S,nonfiction,autobiography,251,Orient Blackswan,fast,male,child,english,medieval
+770,H,S,fiction,autobiography,216,HarperCollins,slow,male,child,hindi,ancient
+771,Y,Z,tech,physics,164,Springer,medium,others,adult,english,ancient
+772,S,A,tech,misc,316,Apress,slow,male,child,english,medieval
+773,V,V,science,signal_processing,340,Penguin,fast,others,old,hindi,medieval
+774,V,Z,fiction,autobiography,296,Wiley,fast,male,adult,hindi,medieval
+775,W,Y,nonfiction,classic,286,Orient Blackswan,slow,male,old,english,ancient
+776,E,S,science,data_science,155,CRC,medium,male,adult,hindi,modern
+777,E,G,tech,mathematics,288,Springer,fast,others,adult,hindi,ancient
+778,B,K,science,novel,296,CRC,fast,others,adult,hindi,modern
+779,X,K,nonfiction,signal_processing,190,Penguin,slow,female,child,english,modern
+780,F,F,philosophy,history,225,Orient Blackswan,medium,female,adult,hindi,modern
+781,S,G,nonfiction,trivia,188,Orient Blackswan,fast,male,child,english,modern
+782,N,E,philosophy,trivia,349,Penguin,slow,others,adult,english,ancient
+783,O,E,philosophy,mathematics,269,Apress,fast,others,adult,hindi,ancient
+784,G,E,science,misc,259,Springer,medium,male,adult,english,ancient
+785,P,N,fiction,legal,237,Penguin,slow,others,adult,hindi,ancient
+786,A,Z,science,legal,274,CRC,slow,male,adult,english,ancient
+787,I,Z,nonfiction,comic,237,Orient Blackswan,slow,others,child,english,medieval
+788,Z,J,nonfiction,psychology,323,Apress,slow,others,child,hindi,ancient
+789,Y,P,fiction,physics,219,Penguin,slow,male,child,english,medieval
+790,F,Q,science,history,280,CRC,slow,male,adult,english,medieval
+791,H,L,tech,history,276,Springer,medium,male,adult,english,medieval
+792,C,T,fiction,history,297,Penguin,medium,male,old,hindi,modern
+793,Z,X,tech,trivia,322,Wiley,medium,male,adult,english,modern
+794,S,R,nonfiction,economics,253,Wiley,medium,others,old,english,ancient
+795,R,J,fiction,data_science,290,Orient Blackswan,medium,male,old,english,medieval
+796,E,S,fiction,data_science,269,Orient Blackswan,medium,others,child,hindi,modern
+797,J,D,science,computer_science,230,Penguin,fast,female,old,hindi,medieval
+798,U,M,philosophy,novel,174,CRC,fast,others,adult,english,modern
+799,U,Q,science,economics,277,Penguin,fast,female,child,english,medieval
+800,O,Y,tech,classic,332,Wiley,medium,others,old,english,ancient
+801,B,E,fiction,signal_processing,192,Penguin,slow,others,old,english,ancient
+802,S,P,philosophy,history,292,Orient Blackswan,slow,female,child,english,modern
+803,I,Y,science,mathematics,298,Apress,slow,female,adult,hindi,ancient
+804,X,Z,tech,signal_processing,183,Springer,medium,male,adult,hindi,modern
+805,N,R,nonfiction,comic,190,Orient Blackswan,medium,others,adult,english,ancient
+806,F,W,philosophy,signal_processing,186,Springer,fast,others,child,english,ancient
+807,B,T,science,physics,188,HarperCollins,slow,male,old,hindi,modern
+808,U,Z,nonfiction,classic,280,HarperCollins,medium,male,child,english,medieval
+809,I,G,science,novel,333,Penguin,fast,female,child,english,ancient
+810,B,E,tech,data_science,228,Orient Blackswan,fast,female,adult,english,medieval
+811,Z,E,philosophy,trivia,307,Apress,slow,female,adult,hindi,modern
+812,C,O,tech,physics,323,Wiley,medium,others,child,english,modern
+813,Q,I,science,misc,180,Apress,medium,others,old,hindi,medieval
+814,P,I,philosophy,psychology,226,CRC,medium,female,child,hindi,modern
+815,I,S,philosophy,psychology,232,Orient Blackswan,slow,male,old,hindi,medieval
+816,F,Y,nonfiction,economics,219,Wiley,slow,others,old,hindi,modern
+817,Q,J,nonfiction,history,150,Springer,medium,female,old,english,ancient
+818,T,R,tech,economics,319,HarperCollins,fast,male,child,hindi,modern
+819,G,H,tech,signal_processing,192,Apress,medium,others,child,hindi,medieval
+820,O,B,science,psychology,220,Apress,fast,others,old,hindi,medieval
+821,A,J,fiction,legal,201,Penguin,fast,male,old,english,medieval
+822,N,V,tech,history,318,Penguin,slow,others,old,english,modern
+823,T,U,nonfiction,data_science,319,HarperCollins,fast,male,child,hindi,medieval
+824,A,H,fiction,mathematics,173,Penguin,medium,male,adult,hindi,ancient
+825,H,O,fiction,legal,173,Springer,medium,others,old,english,modern
+826,K,D,fiction,mathematics,259,Wiley,medium,others,old,hindi,modern
+827,E,B,tech,economics,245,Apress,slow,female,adult,hindi,medieval
+828,Q,R,tech,comic,206,Apress,medium,male,adult,english,medieval
+829,F,P,nonfiction,physics,235,CRC,medium,female,child,english,modern
+830,Y,R,nonfiction,legal,172,Wiley,fast,male,old,hindi,ancient
+831,H,P,tech,economics,188,Apress,medium,male,old,hindi,modern
+832,G,V,science,mathematics,229,Apress,slow,others,old,hindi,medieval
+833,S,J,tech,economics,266,Orient Blackswan,slow,others,old,english,modern
+834,P,Q,philosophy,comic,288,Apress,slow,others,child,hindi,modern
+835,F,W,fiction,physics,262,Penguin,fast,others,old,hindi,medieval
+836,G,C,tech,autobiography,258,HarperCollins,fast,others,adult,hindi,ancient
+837,W,O,philosophy,history,325,Penguin,medium,female,child,english,ancient
+838,H,Q,nonfiction,trivia,252,CRC,fast,male,adult,hindi,ancient
+839,A,B,fiction,legal,189,Springer,slow,male,adult,hindi,modern
+840,G,X,science,misc,260,CRC,medium,male,adult,english,medieval
+841,K,W,philosophy,misc,283,Penguin,fast,others,old,english,modern
+842,B,H,fiction,mathematics,346,Penguin,fast,female,adult,hindi,medieval
+843,I,L,science,comic,233,Apress,medium,others,old,hindi,medieval
+844,A,E,science,signal_processing,313,HarperCollins,slow,others,child,english,medieval
+845,R,R,philosophy,novel,175,Penguin,fast,male,old,hindi,medieval
+846,T,G,science,economics,267,Springer,slow,male,adult,hindi,modern
+847,H,C,philosophy,economics,182,HarperCollins,medium,female,old,english,ancient
+848,J,D,tech,economics,175,Orient Blackswan,medium,others,old,english,modern
+849,O,Z,nonfiction,computer_science,236,CRC,medium,female,child,hindi,modern
+850,P,M,philosophy,economics,176,Penguin,fast,female,old,hindi,medieval
+851,Z,E,philosophy,autobiography,197,Springer,fast,others,old,english,ancient
+852,O,J,science,comic,239,Apress,medium,female,old,hindi,medieval
+853,D,J,tech,legal,296,Orient Blackswan,slow,male,adult,english,modern
+854,S,A,science,physics,318,Apress,fast,male,old,hindi,medieval
+855,Q,S,nonfiction,classic,262,Penguin,slow,male,adult,hindi,modern
+856,K,X,fiction,computer_science,272,Penguin,slow,others,adult,hindi,medieval
+857,D,D,nonfiction,economics,179,Apress,fast,others,adult,hindi,medieval
+858,X,T,nonfiction,trivia,157,Wiley,slow,female,child,english,medieval
+859,D,O,science,misc,328,Wiley,slow,male,child,english,ancient
+860,K,U,fiction,psychology,264,Orient Blackswan,slow,others,child,english,modern
+861,X,N,science,data_science,332,Wiley,slow,others,child,english,medieval
+862,M,G,fiction,classic,318,Apress,slow,female,old,english,ancient
+863,Q,P,nonfiction,novel,296,Orient Blackswan,medium,others,child,english,medieval
+864,Q,Y,fiction,history,200,Orient Blackswan,fast,others,child,hindi,medieval
+865,B,W,nonfiction,misc,256,CRC,fast,female,old,english,ancient
+866,W,N,science,autobiography,208,Wiley,fast,female,old,hindi,modern
+867,Y,A,science,history,309,Apress,fast,others,adult,hindi,modern
+868,A,K,philosophy,signal_processing,183,HarperCollins,medium,others,adult,english,ancient
+869,F,F,science,history,263,CRC,fast,others,old,hindi,ancient
+870,A,D,tech,misc,348,Springer,medium,others,adult,hindi,modern
+871,I,H,fiction,history,293,Wiley,fast,others,child,hindi,modern
+872,R,B,fiction,signal_processing,196,HarperCollins,slow,female,old,hindi,modern
+873,B,K,nonfiction,computer_science,296,Apress,fast,others,child,hindi,medieval
+874,T,V,philosophy,data_science,328,Apress,medium,others,old,hindi,medieval
+875,T,G,tech,signal_processing,159,Springer,medium,female,old,english,ancient
+876,S,D,tech,comic,321,Penguin,slow,others,old,hindi,ancient
+877,M,B,fiction,misc,245,Penguin,slow,male,old,hindi,medieval
+878,C,K,tech,trivia,343,Apress,fast,male,adult,english,medieval
+879,B,G,nonfiction,signal_processing,299,CRC,slow,others,old,english,modern
+880,C,A,philosophy,physics,283,HarperCollins,slow,female,old,english,medieval
+881,R,Y,fiction,psychology,321,Wiley,fast,others,old,english,ancient
+882,B,M,tech,signal_processing,298,Penguin,slow,others,old,english,ancient
+883,S,L,fiction,legal,172,Penguin,fast,male,old,english,ancient
+884,W,H,science,misc,267,Orient Blackswan,slow,male,adult,hindi,modern
+885,V,M,philosophy,physics,267,HarperCollins,medium,male,adult,english,modern
+886,J,D,philosophy,psychology,285,HarperCollins,fast,female,child,english,modern
+887,H,E,philosophy,trivia,189,CRC,fast,male,child,english,medieval
+888,Y,R,tech,history,296,Penguin,medium,male,adult,english,medieval
+889,G,Z,philosophy,novel,244,HarperCollins,medium,male,adult,hindi,modern
+890,M,V,science,computer_science,167,CRC,medium,female,adult,hindi,modern
+891,I,L,science,physics,163,CRC,fast,male,adult,hindi,medieval
+892,D,O,science,autobiography,226,HarperCollins,slow,others,adult,english,ancient
+893,Y,D,tech,history,335,CRC,slow,male,child,hindi,ancient
+894,B,C,fiction,autobiography,309,Penguin,fast,others,adult,english,modern
+895,V,M,tech,psychology,277,Apress,slow,others,old,english,modern
+896,B,Z,tech,novel,194,Springer,medium,female,adult,english,ancient
+897,Z,Q,nonfiction,mathematics,319,Springer,slow,female,old,english,modern
+898,T,M,philosophy,physics,188,Apress,medium,female,adult,hindi,modern
+899,D,L,philosophy,autobiography,179,CRC,slow,male,child,hindi,modern
+900,G,V,philosophy,classic,232,HarperCollins,medium,male,adult,hindi,ancient
+901,T,R,science,comic,338,Penguin,medium,female,child,hindi,modern
+902,M,T,fiction,history,323,Apress,medium,male,child,hindi,medieval
+903,X,Z,fiction,computer_science,230,Springer,slow,male,child,hindi,modern
+904,X,B,philosophy,trivia,284,HarperCollins,fast,female,child,english,ancient
+905,F,Q,nonfiction,psychology,301,CRC,medium,male,adult,hindi,modern
+906,Q,F,science,classic,191,Penguin,slow,others,child,english,ancient
+907,P,G,philosophy,novel,208,Penguin,medium,others,adult,english,medieval
+908,T,R,fiction,mathematics,349,HarperCollins,slow,female,adult,english,medieval
+909,S,R,nonfiction,data_science,184,Wiley,slow,others,old,hindi,modern
+910,T,P,tech,legal,157,HarperCollins,fast,female,adult,english,ancient
+911,V,R,nonfiction,economics,282,Springer,medium,others,adult,hindi,ancient
+912,J,Q,philosophy,legal,307,Wiley,medium,others,old,english,ancient
+913,W,B,nonfiction,legal,257,Orient Blackswan,slow,others,child,hindi,ancient
+914,N,D,fiction,mathematics,305,Orient Blackswan,slow,male,child,english,medieval
+915,G,X,fiction,trivia,225,CRC,fast,male,adult,hindi,ancient
+916,R,O,science,signal_processing,326,Apress,slow,others,child,english,ancient
+917,Y,I,nonfiction,signal_processing,192,Wiley,medium,female,old,hindi,ancient
+918,P,E,fiction,psychology,216,Springer,slow,female,adult,english,medieval
+919,S,F,science,psychology,273,Wiley,fast,male,old,hindi,ancient
+920,G,J,nonfiction,legal,286,HarperCollins,slow,female,adult,english,modern
+921,D,B,science,trivia,186,Penguin,slow,others,old,english,modern
+922,C,T,tech,classic,238,CRC,medium,female,adult,hindi,modern
+923,K,X,fiction,autobiography,315,Orient Blackswan,medium,female,child,hindi,medieval
+924,D,E,science,novel,323,Penguin,fast,male,adult,english,modern
+925,D,V,fiction,signal_processing,349,HarperCollins,medium,male,child,english,modern
+926,F,J,science,psychology,194,Springer,slow,female,old,hindi,medieval
+927,G,F,philosophy,legal,319,Orient Blackswan,medium,female,child,english,medieval
+928,E,N,philosophy,mathematics,270,CRC,slow,others,old,english,modern
+929,B,X,tech,legal,232,Penguin,fast,male,old,hindi,ancient
+930,K,Q,science,legal,349,Springer,slow,others,adult,english,ancient
+931,K,L,fiction,signal_processing,305,Wiley,slow,male,adult,english,ancient
+932,W,O,philosophy,comic,220,CRC,fast,female,child,hindi,modern
+933,Y,L,philosophy,economics,322,Penguin,slow,male,old,hindi,modern
+934,H,K,philosophy,computer_science,185,Orient Blackswan,medium,male,old,english,ancient
+935,T,R,science,legal,306,Penguin,slow,male,adult,english,ancient
+936,D,B,tech,data_science,225,Penguin,slow,male,adult,hindi,ancient
+937,Z,R,tech,history,227,CRC,slow,others,child,hindi,medieval
+938,L,A,science,legal,164,Springer,fast,others,child,english,medieval
+939,W,U,fiction,economics,224,Penguin,fast,female,old,english,modern
+940,R,I,nonfiction,computer_science,213,CRC,medium,male,child,english,medieval
+941,E,P,philosophy,computer_science,323,CRC,fast,female,adult,hindi,modern
+942,T,M,fiction,classic,157,Apress,fast,others,adult,english,modern
+943,D,Y,tech,comic,171,CRC,slow,male,child,hindi,modern
+944,C,Q,tech,psychology,231,Penguin,medium,male,child,hindi,ancient
+945,I,R,philosophy,data_science,264,Orient Blackswan,medium,others,child,hindi,ancient
+946,L,Y,science,novel,198,Springer,fast,female,old,hindi,modern
+947,V,G,philosophy,psychology,159,HarperCollins,fast,male,child,english,modern
+948,J,B,nonfiction,autobiography,306,Orient Blackswan,medium,others,old,english,medieval
+949,A,C,science,psychology,264,Penguin,medium,others,child,english,medieval
+950,N,O,nonfiction,trivia,234,HarperCollins,medium,others,child,english,ancient
+951,P,L,tech,novel,194,Apress,slow,female,child,hindi,modern
+952,F,F,fiction,novel,252,Springer,slow,others,adult,english,medieval
+953,S,H,nonfiction,physics,322,Penguin,slow,male,adult,english,modern
+954,B,K,science,novel,159,Springer,slow,male,child,hindi,ancient
+955,I,J,tech,legal,226,Orient Blackswan,medium,others,child,hindi,medieval
+956,V,C,philosophy,physics,273,Penguin,slow,female,adult,hindi,modern
+957,J,W,fiction,comic,203,Penguin,medium,female,adult,hindi,modern
+958,O,Q,science,classic,195,HarperCollins,medium,female,adult,english,modern
+959,A,S,science,misc,194,Penguin,medium,female,old,english,modern
+960,K,V,science,comic,285,Springer,fast,female,adult,hindi,ancient
+961,A,G,nonfiction,psychology,194,CRC,fast,male,child,english,ancient
+962,M,D,tech,misc,301,Penguin,slow,others,child,hindi,ancient
+963,G,M,fiction,data_science,307,Penguin,slow,female,adult,english,ancient
+964,Y,U,tech,data_science,318,Penguin,medium,female,old,english,modern
+965,U,N,science,data_science,336,CRC,fast,male,child,english,ancient
+966,A,D,tech,novel,264,Springer,medium,others,child,hindi,ancient
+967,B,X,philosophy,mathematics,194,Penguin,slow,others,old,english,modern
+968,T,E,science,classic,165,Springer,medium,male,child,hindi,modern
+969,L,F,philosophy,classic,278,Wiley,fast,others,child,english,modern
+970,Z,S,fiction,comic,220,CRC,medium,male,old,english,medieval
+971,N,M,tech,history,229,HarperCollins,medium,female,old,english,medieval
+972,R,U,science,comic,204,Apress,slow,male,child,english,modern
+973,U,G,philosophy,trivia,179,CRC,fast,male,adult,hindi,medieval
+974,Q,N,nonfiction,data_science,202,Penguin,medium,female,old,english,ancient
+975,V,N,fiction,mathematics,237,HarperCollins,slow,others,child,english,ancient
+976,F,Z,philosophy,misc,293,Penguin,fast,male,adult,english,modern
+977,B,L,philosophy,signal_processing,250,Orient Blackswan,fast,male,adult,hindi,ancient
+978,Q,T,nonfiction,legal,246,Orient Blackswan,medium,male,adult,hindi,modern
+979,O,A,science,misc,201,Wiley,medium,male,adult,hindi,medieval
+980,D,P,science,comic,316,CRC,medium,male,old,english,ancient
+981,G,J,science,mathematics,331,Apress,slow,others,adult,english,modern
+982,F,N,science,history,198,Apress,fast,female,old,hindi,medieval
+983,K,U,tech,psychology,219,HarperCollins,slow,male,adult,hindi,medieval
+984,Y,Q,philosophy,misc,255,Wiley,medium,male,child,hindi,modern
+985,H,Y,fiction,misc,207,Springer,slow,others,old,hindi,modern
+986,S,F,philosophy,history,247,Apress,fast,male,adult,english,ancient
+987,V,V,science,psychology,179,Penguin,fast,others,old,english,modern
+988,Q,W,philosophy,physics,213,Orient Blackswan,slow,female,adult,english,medieval
+989,I,V,science,mathematics,292,HarperCollins,fast,others,child,hindi,ancient
+990,V,N,tech,autobiography,175,Springer,fast,female,adult,hindi,medieval
+991,C,R,nonfiction,computer_science,300,Penguin,slow,male,child,english,medieval
+992,J,D,philosophy,autobiography,289,Wiley,slow,male,child,english,ancient
+993,I,S,tech,misc,326,CRC,slow,male,child,english,modern
+994,K,D,science,classic,258,Springer,medium,others,old,hindi,medieval
+995,J,Z,science,data_science,257,HarperCollins,slow,male,adult,hindi,medieval
+996,E,F,philosophy,comic,264,Springer,medium,female,child,hindi,medieval
+997,K,J,fiction,computer_science,324,Wiley,fast,female,old,english,modern
+998,L,X,science,trivia,253,Orient Blackswan,slow,others,child,hindi,medieval
+999,Z,L,fiction,economics,280,Penguin,medium,others,old,hindi,medieval
+1000,X,O,nonfiction,psychology,252,Penguin,slow,male,adult,hindi,modern
+1001,M,R,nonfiction,novel,276,Penguin,fast,male,old,english,medieval
+1002,M,Z,fiction,novel,311,Penguin,slow,male,adult,english,ancient
+1003,Q,L,science,physics,258,Wiley,medium,female,adult,hindi,medieval
+1004,J,X,science,mathematics,305,Penguin,slow,female,adult,english,ancient
+1005,C,M,philosophy,signal_processing,163,Springer,fast,others,adult,english,medieval
+1006,L,Y,tech,misc,345,HarperCollins,slow,female,old,english,medieval
+1007,O,W,fiction,classic,201,Springer,slow,others,child,hindi,ancient
+1008,F,Z,fiction,autobiography,215,HarperCollins,fast,male,child,english,ancient
+1009,E,T,fiction,trivia,242,Apress,slow,others,child,hindi,modern
+1010,E,Y,tech,mathematics,204,Springer,fast,others,adult,hindi,modern
+1011,K,O,tech,psychology,181,Wiley,slow,female,old,hindi,ancient
+1012,K,D,science,comic,223,Apress,medium,others,old,english,modern
+1013,J,M,philosophy,classic,252,Springer,slow,male,child,hindi,ancient
+1014,U,I,philosophy,mathematics,202,Penguin,medium,others,old,english,medieval
+1015,K,T,fiction,signal_processing,280,Apress,fast,male,old,hindi,modern
+1016,S,M,fiction,trivia,262,Wiley,medium,male,adult,english,ancient
+1017,O,N,philosophy,novel,299,HarperCollins,slow,male,adult,hindi,ancient
+1018,F,Q,philosophy,psychology,309,Penguin,fast,male,adult,english,modern
+1019,I,I,tech,history,325,Orient Blackswan,slow,others,child,hindi,modern
+1020,X,K,fiction,physics,194,Springer,slow,male,old,hindi,ancient
+1021,D,D,philosophy,computer_science,286,Apress,medium,others,adult,english,medieval
+1022,M,Z,nonfiction,physics,227,CRC,medium,male,adult,english,ancient
+1023,I,Q,fiction,physics,333,Orient Blackswan,fast,others,old,hindi,medieval
+1024,N,V,tech,physics,214,Orient Blackswan,fast,male,adult,hindi,medieval
+1025,X,D,philosophy,signal_processing,335,Penguin,fast,others,child,hindi,modern
+1026,R,P,nonfiction,mathematics,192,Apress,fast,others,child,hindi,ancient
+1027,R,C,fiction,legal,281,HarperCollins,fast,others,adult,english,modern
+1028,J,O,fiction,computer_science,309,Penguin,fast,male,child,english,modern
+1029,E,M,philosophy,comic,248,Springer,slow,others,adult,hindi,medieval
+1030,Q,P,philosophy,mathematics,211,Penguin,medium,female,adult,english,medieval
+1031,H,C,nonfiction,trivia,164,Springer,medium,female,old,english,medieval
+1032,T,D,philosophy,history,174,Apress,medium,others,adult,english,ancient
+1033,F,R,tech,mathematics,324,CRC,slow,others,old,english,medieval
+1034,Z,N,tech,history,272,Springer,slow,others,adult,english,ancient
+1035,C,C,fiction,novel,329,Penguin,fast,male,child,english,medieval
+1036,H,F,tech,physics,337,Penguin,medium,others,child,hindi,medieval
+1037,N,N,tech,novel,268,Apress,fast,female,child,english,modern
+1038,S,Y,tech,psychology,332,Orient Blackswan,slow,male,adult,english,medieval
+1039,P,F,fiction,mathematics,202,Orient Blackswan,slow,male,child,english,medieval
+1040,R,H,fiction,trivia,312,CRC,medium,female,adult,english,medieval
+1041,W,X,philosophy,novel,187,HarperCollins,medium,others,old,hindi,medieval
+1042,Z,T,tech,autobiography,185,Orient Blackswan,medium,others,adult,english,modern
+1043,D,K,tech,legal,337,Orient Blackswan,medium,male,child,hindi,medieval
+1044,H,L,philosophy,legal,241,CRC,fast,female,adult,hindi,modern
+1045,U,E,tech,trivia,238,Wiley,medium,others,child,hindi,medieval
+1046,N,F,nonfiction,signal_processing,267,Orient Blackswan,medium,female,old,hindi,ancient
+1047,A,Z,philosophy,data_science,153,CRC,fast,female,old,english,modern
+1048,K,T,tech,physics,339,Penguin,fast,others,adult,hindi,medieval
+1049,S,W,tech,psychology,227,Wiley,slow,others,old,english,ancient
+1050,K,H,philosophy,psychology,328,Penguin,slow,female,old,english,medieval
+1051,H,E,fiction,misc,183,Apress,fast,female,child,english,modern
+1052,X,B,tech,misc,315,Apress,slow,others,child,english,modern
+1053,Z,I,nonfiction,legal,158,Penguin,fast,female,child,english,modern
+1054,R,U,tech,comic,318,Springer,slow,male,adult,english,medieval
+1055,K,Z,tech,comic,180,Orient Blackswan,slow,male,old,english,ancient
+1056,W,N,nonfiction,legal,343,Springer,slow,female,adult,english,medieval
+1057,J,J,philosophy,signal_processing,161,Penguin,slow,male,old,english,medieval
+1058,B,D,fiction,misc,311,Apress,fast,others,adult,hindi,ancient
+1059,F,B,nonfiction,history,255,Wiley,slow,female,child,hindi,ancient
+1060,P,Y,philosophy,comic,259,Apress,medium,others,adult,hindi,ancient
+1061,U,T,tech,legal,324,HarperCollins,medium,male,child,hindi,medieval
+1062,O,G,science,signal_processing,221,Springer,fast,male,old,english,modern
+1063,I,D,science,physics,235,Apress,slow,female,child,english,medieval
+1064,Z,K,nonfiction,autobiography,298,Wiley,slow,male,old,english,medieval
+1065,Q,T,science,misc,295,Penguin,fast,female,adult,english,modern
+1066,K,G,nonfiction,autobiography,214,Wiley,slow,male,child,hindi,modern
+1067,I,P,nonfiction,mathematics,237,Penguin,medium,others,child,english,modern
+1068,D,H,philosophy,history,213,Wiley,slow,others,old,hindi,medieval
+1069,E,G,tech,computer_science,349,Orient Blackswan,fast,male,adult,hindi,medieval
+1070,X,U,nonfiction,comic,241,Wiley,fast,male,adult,hindi,medieval
+1071,W,Q,fiction,legal,327,CRC,fast,female,adult,english,ancient
+1072,C,F,philosophy,psychology,338,Apress,medium,female,old,hindi,modern
+1073,Z,Q,fiction,psychology,276,CRC,fast,others,old,english,ancient
+1074,B,C,tech,computer_science,314,Springer,fast,female,old,english,modern
+1075,K,S,philosophy,misc,229,Orient Blackswan,fast,others,adult,hindi,medieval
+1076,V,U,science,novel,316,CRC,medium,others,child,hindi,medieval
+1077,O,H,fiction,computer_science,232,Penguin,slow,female,child,hindi,ancient
+1078,M,R,science,comic,233,Penguin,slow,male,child,hindi,ancient
+1079,F,N,science,physics,258,Penguin,slow,male,child,hindi,ancient
+1080,I,F,fiction,misc,261,Penguin,fast,female,old,english,medieval
+1081,Y,Y,science,physics,163,CRC,medium,others,child,english,modern
+1082,P,R,nonfiction,comic,291,Penguin,slow,female,adult,english,modern
+1083,G,J,fiction,novel,226,Wiley,slow,male,child,hindi,ancient
+1084,X,J,tech,signal_processing,171,Wiley,slow,female,old,hindi,medieval
+1085,G,N,nonfiction,physics,212,Orient Blackswan,medium,others,old,hindi,ancient
+1086,S,I,science,misc,208,Orient Blackswan,fast,male,old,hindi,medieval
+1087,V,W,philosophy,legal,317,Springer,fast,male,adult,english,ancient
+1088,P,Z,nonfiction,data_science,223,Penguin,medium,others,child,hindi,modern
+1089,W,L,philosophy,autobiography,321,Springer,fast,others,child,hindi,medieval
+1090,B,Y,nonfiction,misc,174,Springer,medium,others,adult,english,ancient
+1091,H,Z,philosophy,legal,284,Wiley,slow,female,old,hindi,modern
+1092,Q,E,philosophy,legal,295,CRC,slow,male,child,hindi,ancient
+1093,R,E,tech,misc,245,Penguin,fast,male,adult,english,ancient
+1094,P,C,science,signal_processing,169,Apress,fast,male,old,english,ancient
+1095,R,Q,nonfiction,novel,195,Apress,medium,female,adult,english,medieval
+1096,H,Z,science,novel,190,HarperCollins,slow,female,child,hindi,modern
+1097,C,K,science,autobiography,185,Apress,medium,female,child,hindi,ancient
+1098,B,I,science,data_science,234,HarperCollins,slow,female,adult,hindi,medieval
+1099,M,I,science,economics,206,HarperCollins,medium,female,child,hindi,medieval
+1100,G,T,science,classic,336,Orient Blackswan,fast,male,child,hindi,medieval
+1101,Z,C,philosophy,computer_science,325,Penguin,medium,female,child,hindi,ancient
+1102,I,Y,tech,mathematics,183,Wiley,fast,others,adult,english,modern
+1103,J,Y,science,misc,324,Springer,fast,female,child,hindi,medieval
+1104,A,U,fiction,trivia,204,Penguin,medium,others,adult,hindi,medieval
+1105,J,A,nonfiction,autobiography,300,Springer,slow,female,old,hindi,medieval
+1106,V,R,fiction,signal_processing,204,HarperCollins,medium,male,adult,hindi,modern
+1107,V,O,tech,economics,322,Apress,fast,female,adult,hindi,ancient
+1108,Z,K,science,computer_science,182,Orient Blackswan,fast,male,old,hindi,ancient
+1109,J,I,philosophy,comic,287,Orient Blackswan,fast,male,old,hindi,ancient
+1110,A,C,science,history,230,Penguin,slow,female,old,hindi,medieval
+1111,K,R,nonfiction,data_science,245,CRC,fast,others,old,hindi,medieval
+1112,J,J,fiction,novel,300,Springer,slow,male,old,hindi,modern
+1113,P,V,philosophy,autobiography,324,HarperCollins,fast,male,adult,hindi,medieval
+1114,S,A,science,autobiography,321,Apress,slow,others,old,hindi,modern
+1115,J,S,nonfiction,novel,274,Springer,fast,others,old,hindi,ancient
+1116,Y,L,philosophy,mathematics,186,Apress,fast,others,adult,hindi,modern
+1117,K,I,tech,psychology,332,Springer,slow,female,old,hindi,ancient
+1118,E,O,tech,legal,241,Wiley,fast,male,adult,hindi,ancient
+1119,N,K,tech,misc,211,Wiley,medium,others,adult,hindi,medieval
+1120,G,U,philosophy,psychology,303,Penguin,fast,female,old,english,modern
+1121,H,O,fiction,mathematics,265,Orient Blackswan,medium,others,child,english,medieval
+1122,W,L,tech,mathematics,297,Penguin,medium,female,child,hindi,medieval
+1123,W,A,philosophy,history,201,Apress,slow,male,adult,english,ancient
+1124,Z,U,fiction,psychology,312,CRC,slow,male,old,hindi,modern
+1125,M,P,nonfiction,mathematics,268,Wiley,medium,others,child,hindi,ancient
+1126,P,T,tech,misc,198,CRC,fast,female,old,english,ancient
+1127,I,W,nonfiction,history,304,Wiley,medium,female,old,hindi,medieval
+1128,O,A,philosophy,trivia,303,Wiley,medium,female,adult,hindi,ancient
+1129,R,B,science,history,283,Penguin,fast,others,adult,english,medieval
+1130,V,E,philosophy,autobiography,160,HarperCollins,fast,male,adult,hindi,medieval
+1131,W,V,science,data_science,242,Orient Blackswan,fast,female,old,hindi,ancient
+1132,S,F,nonfiction,economics,210,Springer,fast,others,adult,hindi,ancient
+1133,F,F,philosophy,trivia,346,HarperCollins,slow,male,child,english,ancient
+1134,F,V,nonfiction,history,216,Penguin,medium,others,old,hindi,medieval
+1135,S,A,philosophy,computer_science,216,Orient Blackswan,slow,female,child,hindi,medieval
+1136,R,F,science,trivia,296,Apress,medium,others,old,hindi,ancient
+1137,C,M,science,misc,270,Penguin,slow,others,child,hindi,modern
+1138,P,O,fiction,autobiography,189,Springer,slow,others,child,hindi,modern
+1139,S,R,nonfiction,physics,280,Springer,fast,male,adult,hindi,ancient
+1140,N,X,fiction,physics,159,Penguin,slow,female,child,english,modern
+1141,R,S,nonfiction,history,221,Orient Blackswan,medium,others,old,hindi,ancient
+1142,C,J,tech,trivia,175,Penguin,fast,others,child,hindi,modern
+1143,X,I,science,autobiography,310,Orient Blackswan,fast,others,old,english,ancient
+1144,J,Q,philosophy,comic,347,Apress,fast,others,child,hindi,modern
+1145,U,J,philosophy,misc,298,HarperCollins,medium,male,child,english,medieval
+1146,G,A,philosophy,novel,186,Penguin,fast,others,child,english,medieval
+1147,H,B,science,novel,335,Apress,fast,others,child,english,medieval
+1148,F,U,philosophy,autobiography,280,CRC,slow,others,old,english,modern
+1149,K,Q,tech,computer_science,277,Penguin,slow,others,old,english,ancient
+1150,W,N,philosophy,economics,196,Apress,slow,female,adult,english,ancient
+1151,L,Q,philosophy,computer_science,234,Apress,slow,male,child,hindi,modern
+1152,S,H,fiction,novel,344,CRC,slow,others,old,english,medieval
+1153,T,Y,fiction,psychology,295,Wiley,fast,female,child,hindi,modern
+1154,K,Q,science,physics,285,Apress,fast,male,adult,hindi,modern
+1155,T,B,philosophy,comic,306,Springer,medium,others,old,english,modern
+1156,F,N,philosophy,novel,213,Penguin,fast,male,child,hindi,ancient
+1157,B,J,philosophy,comic,285,Orient Blackswan,slow,male,adult,english,modern
+1158,B,X,tech,mathematics,260,Springer,fast,others,adult,hindi,ancient
+1159,V,P,science,mathematics,319,Penguin,fast,others,old,hindi,medieval
+1160,S,M,tech,data_science,218,CRC,slow,male,child,hindi,modern
+1161,Y,E,tech,trivia,223,CRC,slow,others,child,hindi,modern
+1162,R,K,nonfiction,trivia,211,CRC,slow,female,adult,hindi,medieval
+1163,M,S,fiction,history,279,HarperCollins,fast,others,adult,hindi,ancient
+1164,G,J,philosophy,comic,219,Penguin,medium,female,adult,hindi,ancient
+1165,Z,G,science,classic,277,Apress,fast,female,adult,hindi,medieval
+1166,G,S,nonfiction,trivia,297,Apress,slow,female,child,hindi,medieval
+1167,X,Q,science,signal_processing,317,Wiley,fast,female,child,hindi,ancient
+1168,B,U,nonfiction,economics,150,Penguin,medium,female,old,hindi,medieval
+1169,X,I,philosophy,economics,288,Springer,medium,female,child,hindi,medieval
+1170,P,I,fiction,physics,199,Springer,fast,female,child,hindi,medieval
+1171,P,T,nonfiction,history,159,Springer,slow,male,old,english,ancient
+1172,P,B,science,signal_processing,160,Penguin,medium,female,old,english,modern
+1173,U,T,science,misc,224,Apress,slow,female,child,english,medieval
+1174,O,B,tech,history,271,Penguin,medium,others,child,hindi,medieval
+1175,Y,T,fiction,comic,309,Penguin,medium,male,adult,english,modern
+1176,Q,E,science,legal,172,Penguin,fast,others,old,hindi,modern
+1177,U,D,tech,economics,307,HarperCollins,medium,male,adult,hindi,ancient
+1178,F,U,nonfiction,history,295,Wiley,fast,male,adult,hindi,medieval
+1179,V,Y,nonfiction,legal,255,Wiley,medium,female,adult,english,modern
+1180,G,W,tech,physics,186,Penguin,fast,others,child,english,ancient
+1181,B,J,tech,novel,293,Apress,slow,male,child,hindi,ancient
+1182,J,O,tech,history,339,Apress,slow,others,adult,hindi,modern
+1183,Y,D,science,data_science,180,HarperCollins,medium,female,old,hindi,modern
+1184,W,J,science,history,239,Wiley,medium,female,child,hindi,ancient
+1185,V,H,fiction,computer_science,226,CRC,slow,female,child,hindi,medieval
+1186,T,G,fiction,legal,288,CRC,medium,others,adult,hindi,medieval
+1187,B,W,fiction,misc,254,Penguin,medium,others,adult,hindi,ancient
+1188,W,Q,nonfiction,trivia,161,Springer,slow,female,old,english,modern
+1189,X,G,science,autobiography,199,Penguin,fast,others,adult,hindi,ancient
+1190,W,O,nonfiction,psychology,223,HarperCollins,slow,female,adult,hindi,medieval
+1191,R,F,fiction,comic,182,HarperCollins,fast,female,old,english,modern
+1192,X,K,science,economics,224,Penguin,slow,female,adult,hindi,modern
+1193,Q,A,science,novel,236,Wiley,medium,male,adult,hindi,ancient
+1194,F,X,philosophy,autobiography,263,Orient Blackswan,fast,others,old,hindi,modern
+1195,D,T,science,novel,245,HarperCollins,medium,others,old,hindi,modern
+1196,P,G,nonfiction,legal,316,Apress,fast,others,old,hindi,modern
+1197,M,P,philosophy,economics,210,Springer,slow,male,old,hindi,ancient
+1198,C,L,philosophy,novel,212,HarperCollins,medium,male,adult,hindi,ancient
+1199,S,D,tech,physics,316,HarperCollins,medium,female,child,hindi,ancient
+1200,L,X,science,legal,349,Wiley,slow,others,old,english,modern
+1201,U,T,fiction,autobiography,261,Apress,fast,male,adult,english,modern
+1202,H,W,fiction,computer_science,277,CRC,fast,others,child,hindi,medieval
+1203,A,A,nonfiction,legal,311,HarperCollins,fast,male,old,hindi,modern
+1204,O,O,nonfiction,psychology,287,CRC,slow,others,adult,hindi,ancient
+1205,V,A,fiction,physics,151,Apress,medium,others,child,hindi,ancient
+1206,Y,T,philosophy,misc,270,Penguin,fast,others,adult,english,modern
+1207,E,T,philosophy,misc,261,Wiley,fast,female,child,hindi,ancient
+1208,R,F,science,comic,308,Penguin,fast,others,old,hindi,medieval
+1209,F,P,tech,autobiography,167,Penguin,slow,others,child,hindi,medieval
+1210,C,R,nonfiction,misc,166,Wiley,fast,male,child,english,modern
+1211,Y,B,science,classic,345,Orient Blackswan,fast,others,old,hindi,medieval
+1212,A,A,science,novel,311,HarperCollins,fast,male,adult,hindi,medieval
+1213,A,B,tech,signal_processing,155,Apress,fast,others,old,english,medieval
+1214,A,C,nonfiction,signal_processing,327,Apress,fast,female,old,hindi,ancient
+1215,A,D,nonfiction,comic,152,HarperCollins,slow,female,old,hindi,medieval
+1216,A,E,fiction,classic,183,CRC,medium,male,adult,english,medieval
+1217,A,F,philosophy,legal,266,Orient Blackswan,fast,male,child,hindi,modern
+1218,A,G,fiction,signal_processing,256,Penguin,slow,female,child,hindi,medieval
+1219,A,H,science,data_science,347,HarperCollins,fast,female,child,hindi,medieval
+1220,A,I,science,novel,267,Wiley,slow,others,old,hindi,modern
+1221,A,J,science,classic,282,Orient Blackswan,medium,male,child,hindi,ancient
+1222,A,K,science,psychology,179,Springer,slow,female,child,hindi,ancient
+1223,A,L,fiction,mathematics,341,HarperCollins,fast,others,adult,english,modern
+1224,A,M,philosophy,psychology,168,Orient Blackswan,slow,female,adult,hindi,medieval
+1225,A,N,science,legal,292,Penguin,slow,male,child,hindi,modern
+1226,A,O,tech,physics,236,Springer,medium,others,adult,english,modern
+1227,A,P,nonfiction,history,286,Orient Blackswan,medium,male,adult,hindi,medieval
+1228,A,Q,fiction,mathematics,304,CRC,slow,male,old,hindi,ancient
+1229,A,R,tech,physics,250,Apress,medium,female,old,hindi,ancient
+1230,A,S,fiction,psychology,252,Apress,slow,others,old,hindi,modern
+1231,A,T,philosophy,data_science,303,CRC,medium,female,old,english,ancient
+1232,A,U,fiction,mathematics,313,CRC,medium,female,child,english,ancient
+1233,A,V,philosophy,economics,332,CRC,fast,female,child,hindi,ancient
+1234,A,W,tech,novel,216,Wiley,slow,others,old,english,ancient
+1235,A,X,science,legal,250,Springer,medium,male,child,english,ancient
+1236,A,Y,fiction,history,333,Orient Blackswan,fast,female,adult,english,medieval
+1237,A,Z,science,history,337,Penguin,slow,female,old,english,modern
+1238,B,A,nonfiction,misc,161,Springer,fast,others,adult,english,medieval
+1239,B,B,tech,mathematics,243,Apress,fast,male,adult,english,modern
+1240,B,C,science,history,154,CRC,fast,others,old,english,medieval
+1241,B,D,science,legal,178,Springer,slow,others,adult,hindi,medieval
+1242,B,E,philosophy,signal_processing,190,Springer,slow,others,child,english,ancient
+1243,B,F,fiction,misc,267,Penguin,slow,others,adult,english,ancient
+1244,B,G,science,classic,335,Springer,slow,female,adult,hindi,medieval
+1245,B,H,tech,signal_processing,168,Penguin,slow,others,old,hindi,modern
+1246,B,I,fiction,autobiography,269,Penguin,fast,others,adult,english,medieval
+1247,B,J,nonfiction,comic,169,HarperCollins,slow,others,child,english,ancient
+1248,B,K,tech,legal,236,Wiley,medium,male,adult,hindi,modern
+1249,B,L,philosophy,physics,328,Apress,slow,male,old,english,medieval
+1250,B,M,science,classic,318,Springer,medium,female,child,hindi,medieval
+1251,B,N,philosophy,computer_science,153,Penguin,slow,female,adult,english,medieval
+1252,B,O,science,novel,260,Springer,slow,male,old,english,modern
+1253,B,P,nonfiction,misc,347,Wiley,fast,others,adult,hindi,modern
+1254,B,Q,nonfiction,novel,296,Penguin,medium,male,old,hindi,medieval
+1255,B,R,science,comic,230,HarperCollins,fast,others,adult,english,ancient
+1256,B,S,tech,trivia,241,HarperCollins,fast,others,adult,hindi,medieval
+1257,B,T,tech,physics,334,Apress,medium,male,old,english,ancient
+1258,B,U,fiction,physics,167,Apress,fast,male,child,english,modern
+1259,B,V,nonfiction,psychology,195,Wiley,medium,female,adult,hindi,modern
+1260,B,W,tech,economics,186,CRC,slow,female,adult,english,modern
+1261,B,X,philosophy,legal,221,CRC,slow,male,old,english,medieval
+1262,B,Y,tech,classic,301,CRC,medium,male,child,hindi,modern
+1263,B,Z,nonfiction,comic,349,Springer,slow,male,old,hindi,ancient
+1264,C,A,fiction,trivia,155,Springer,medium,female,child,hindi,modern
+1265,C,B,nonfiction,classic,167,Apress,fast,others,adult,english,ancient
+1266,C,C,tech,comic,201,Penguin,fast,female,child,english,ancient
+1267,C,D,philosophy,legal,338,HarperCollins,fast,male,old,english,medieval
+1268,C,E,philosophy,mathematics,306,HarperCollins,fast,others,child,hindi,modern
+1269,C,F,fiction,signal_processing,164,Orient Blackswan,fast,male,adult,hindi,modern
+1270,C,G,science,autobiography,184,Penguin,fast,female,adult,hindi,medieval
+1271,C,H,nonfiction,classic,263,Penguin,fast,female,old,english,medieval
+1272,C,I,science,classic,192,HarperCollins,medium,male,adult,english,modern
+1273,C,J,fiction,physics,224,Orient Blackswan,medium,female,adult,hindi,modern
+1274,C,K,science,mathematics,180,HarperCollins,medium,female,old,hindi,modern
+1275,C,L,fiction,comic,330,CRC,slow,others,child,english,ancient
+1276,C,M,nonfiction,physics,194,Wiley,slow,female,old,hindi,modern
+1277,C,N,nonfiction,misc,252,Orient Blackswan,medium,male,child,english,ancient
+1278,C,O,nonfiction,mathematics,301,Wiley,medium,others,child,hindi,ancient
+1279,C,P,fiction,data_science,280,Wiley,slow,others,adult,hindi,medieval
+1280,C,Q,nonfiction,comic,182,Springer,slow,female,old,hindi,modern
+1281,C,R,philosophy,autobiography,269,Springer,fast,male,child,hindi,modern
+1282,C,S,philosophy,classic,235,Penguin,fast,male,old,english,ancient
+1283,C,T,fiction,misc,244,Penguin,fast,female,child,english,medieval
+1284,C,U,nonfiction,history,218,Springer,slow,female,old,hindi,medieval
+1285,C,V,tech,legal,333,Springer,medium,female,child,english,medieval
+1286,C,W,tech,autobiography,324,Penguin,fast,female,adult,hindi,modern
+1287,C,X,nonfiction,signal_processing,309,CRC,slow,female,adult,hindi,ancient
+1288,C,Y,nonfiction,signal_processing,317,Springer,slow,female,old,english,ancient
+1289,C,Z,science,physics,293,HarperCollins,fast,male,old,english,medieval
+1290,D,A,fiction,psychology,306,CRC,slow,male,child,english,modern
+1291,D,B,philosophy,economics,153,HarperCollins,fast,female,child,hindi,modern
+1292,D,C,tech,data_science,317,Wiley,fast,female,child,english,ancient
+1293,D,D,science,economics,209,Orient Blackswan,slow,male,adult,english,ancient
+1294,D,E,tech,signal_processing,304,Apress,medium,others,child,english,modern
+1295,D,F,science,economics,322,Orient Blackswan,fast,male,child,english,ancient
+1296,D,G,fiction,data_science,227,Springer,medium,female,old,hindi,ancient
+1297,D,H,nonfiction,history,155,Wiley,fast,female,child,hindi,ancient
+1298,D,I,fiction,mathematics,263,Apress,fast,female,child,hindi,medieval
+1299,D,J,nonfiction,economics,183,CRC,medium,male,old,english,medieval
+1300,D,K,nonfiction,misc,322,Orient Blackswan,slow,others,old,english,ancient
+1301,D,L,nonfiction,economics,297,Wiley,medium,male,adult,hindi,ancient
+1302,D,M,fiction,physics,248,Apress,slow,others,child,hindi,ancient
+1303,D,N,philosophy,mathematics,164,Apress,slow,male,adult,hindi,modern
+1304,D,O,fiction,comic,323,Orient Blackswan,slow,others,adult,hindi,modern
+1305,D,P,philosophy,comic,279,Penguin,fast,male,old,english,modern
+1306,D,Q,nonfiction,signal_processing,296,Orient Blackswan,medium,male,adult,english,ancient
+1307,D,R,science,computer_science,168,Orient Blackswan,fast,female,child,hindi,modern
+1308,D,S,tech,signal_processing,333,Apress,slow,female,child,hindi,ancient
+1309,D,T,science,mathematics,247,Orient Blackswan,fast,male,adult,english,medieval
+1310,D,U,nonfiction,legal,298,Orient Blackswan,medium,male,old,english,ancient
+1311,D,V,philosophy,history,165,Penguin,fast,others,old,english,ancient
+1312,D,W,fiction,mathematics,318,Penguin,fast,female,adult,hindi,medieval
+1313,D,X,tech,classic,336,Apress,fast,male,adult,hindi,ancient
+1314,D,Y,fiction,signal_processing,259,Springer,fast,female,child,hindi,medieval
+1315,D,Z,science,classic,186,CRC,slow,others,adult,hindi,modern
+1316,E,A,philosophy,comic,319,Penguin,fast,female,adult,hindi,modern
+1317,E,B,fiction,signal_processing,185,Apress,slow,female,old,english,medieval
+1318,E,C,science,computer_science,297,Springer,slow,others,adult,english,modern
+1319,E,D,tech,comic,239,Apress,medium,male,child,english,modern
+1320,E,E,philosophy,trivia,329,Penguin,fast,others,old,hindi,modern
+1321,E,F,nonfiction,trivia,206,Penguin,fast,others,adult,hindi,modern
+1322,E,G,tech,novel,194,HarperCollins,slow,others,old,english,medieval
+1323,E,H,tech,misc,296,HarperCollins,fast,male,old,english,ancient
+1324,E,I,fiction,classic,265,Wiley,slow,female,child,english,modern
+1325,E,J,nonfiction,legal,349,Penguin,fast,others,old,hindi,medieval
+1326,E,K,science,legal,220,Apress,slow,male,adult,hindi,medieval
+1327,E,L,philosophy,novel,294,Springer,medium,male,child,english,ancient
+1328,E,M,tech,history,306,Penguin,fast,female,child,english,medieval
+1329,E,N,tech,autobiography,333,CRC,medium,others,adult,hindi,ancient
+1330,E,O,nonfiction,misc,280,HarperCollins,medium,male,child,hindi,medieval
+1331,E,P,nonfiction,signal_processing,278,CRC,medium,female,child,hindi,modern
+1332,E,Q,tech,economics,232,CRC,slow,others,adult,english,ancient
+1333,E,R,fiction,comic,178,HarperCollins,fast,male,child,english,medieval
+1334,E,S,nonfiction,economics,245,CRC,fast,others,adult,hindi,modern
+1335,E,T,fiction,signal_processing,206,Penguin,fast,others,old,english,medieval
+1336,E,U,nonfiction,physics,259,Penguin,medium,male,child,hindi,medieval
+1337,E,V,science,trivia,191,Penguin,slow,others,child,english,modern
+1338,E,W,nonfiction,legal,224,Wiley,slow,male,child,hindi,ancient
+1339,E,X,fiction,data_science,242,HarperCollins,slow,others,child,hindi,medieval
+1340,E,Y,philosophy,history,241,Penguin,slow,male,adult,hindi,medieval
+1341,E,Z,fiction,psychology,324,Orient Blackswan,slow,female,old,english,medieval
+1342,F,A,fiction,psychology,257,CRC,slow,others,adult,english,medieval
+1343,F,B,nonfiction,classic,161,HarperCollins,medium,others,child,hindi,modern
+1344,F,C,tech,economics,262,Springer,slow,others,child,english,medieval
+1345,F,D,philosophy,comic,318,HarperCollins,medium,others,adult,hindi,ancient
+1346,F,E,science,history,150,Wiley,slow,others,child,english,medieval
+1347,F,F,tech,signal_processing,232,Wiley,slow,male,child,english,medieval
+1348,F,G,tech,computer_science,154,HarperCollins,fast,female,adult,english,modern
+1349,F,H,fiction,economics,297,Orient Blackswan,fast,others,adult,hindi,medieval
+1350,F,I,tech,history,321,Apress,medium,female,adult,hindi,ancient
+1351,F,J,tech,autobiography,285,Penguin,slow,male,old,english,modern
+1352,F,K,science,psychology,305,Wiley,slow,others,child,hindi,modern
+1353,F,L,philosophy,misc,165,Penguin,fast,female,child,hindi,modern
+1354,F,M,tech,misc,183,Orient Blackswan,medium,male,old,english,modern
+1355,F,N,tech,misc,221,Wiley,fast,female,child,english,medieval
+1356,F,O,tech,misc,316,HarperCollins,slow,female,child,hindi,medieval
+1357,F,P,science,mathematics,253,Springer,slow,female,child,english,medieval
+1358,F,Q,tech,misc,317,Springer,medium,female,child,hindi,modern
+1359,F,R,tech,signal_processing,225,Penguin,medium,male,adult,english,ancient
+1360,F,S,philosophy,mathematics,189,HarperCollins,fast,female,child,hindi,medieval
+1361,F,T,philosophy,novel,247,CRC,medium,others,old,english,medieval
+1362,F,U,fiction,novel,153,HarperCollins,medium,female,old,english,ancient
+1363,F,V,philosophy,classic,271,Wiley,medium,female,old,english,modern
+1364,F,W,nonfiction,misc,276,Wiley,fast,others,child,hindi,modern
+1365,F,X,science,mathematics,248,Wiley,fast,female,adult,english,ancient
+1366,F,Y,nonfiction,computer_science,279,Penguin,medium,male,adult,hindi,ancient
+1367,F,Z,science,computer_science,337,Springer,medium,male,adult,hindi,medieval
+1368,G,A,philosophy,comic,242,Penguin,medium,female,adult,hindi,ancient
+1369,G,B,fiction,history,305,Penguin,fast,female,adult,hindi,medieval
+1370,G,C,nonfiction,legal,230,CRC,fast,female,old,hindi,ancient
+1371,G,D,philosophy,data_science,285,Springer,slow,others,old,english,modern
+1372,G,E,science,mathematics,232,Penguin,medium,male,adult,english,modern
+1373,G,F,nonfiction,comic,289,Springer,medium,female,child,hindi,modern
+1374,G,G,nonfiction,legal,248,Apress,fast,others,child,english,modern
+1375,G,H,science,psychology,344,Orient Blackswan,slow,others,old,english,modern
+1376,G,I,nonfiction,data_science,210,Apress,slow,male,child,hindi,ancient
+1377,G,J,philosophy,history,248,Apress,fast,others,child,hindi,medieval
+1378,G,K,science,computer_science,226,Orient Blackswan,medium,male,old,hindi,medieval
+1379,G,L,fiction,legal,214,Penguin,fast,female,old,english,modern
+1380,G,M,nonfiction,legal,348,Springer,fast,others,adult,hindi,ancient
+1381,G,N,philosophy,mathematics,349,Orient Blackswan,medium,others,adult,english,modern
+1382,G,O,fiction,legal,301,Springer,medium,others,adult,hindi,modern
+1383,G,P,fiction,misc,303,Springer,slow,others,old,hindi,modern
+1384,G,Q,science,legal,317,CRC,fast,female,adult,english,modern
+1385,G,R,fiction,mathematics,334,HarperCollins,medium,male,adult,english,modern
+1386,G,S,science,autobiography,326,Springer,fast,female,child,english,modern
+1387,G,T,nonfiction,trivia,283,Penguin,slow,male,old,english,medieval
+1388,G,U,tech,misc,237,CRC,fast,others,adult,english,medieval
+1389,G,V,nonfiction,history,294,Wiley,medium,male,adult,hindi,medieval
+1390,G,W,fiction,mathematics,158,Springer,slow,male,child,english,modern
+1391,G,X,fiction,legal,228,Penguin,slow,female,old,english,ancient
+1392,G,Y,nonfiction,economics,191,Apress,medium,others,child,english,medieval
+1393,G,Z,fiction,physics,314,CRC,slow,female,child,hindi,ancient
+1394,H,A,fiction,comic,302,Penguin,fast,others,adult,hindi,modern
+1395,H,B,fiction,legal,269,Apress,fast,others,adult,english,ancient
+1396,H,C,nonfiction,comic,164,CRC,medium,others,adult,hindi,ancient
+1397,H,D,nonfiction,mathematics,231,Orient Blackswan,fast,female,child,hindi,ancient
+1398,H,E,nonfiction,comic,257,Penguin,fast,male,old,english,ancient
+1399,H,F,nonfiction,data_science,208,HarperCollins,medium,female,child,hindi,modern
+1400,H,G,philosophy,novel,339,Wiley,medium,male,old,english,modern
+1401,H,H,fiction,history,289,HarperCollins,slow,female,old,english,ancient
+1402,H,I,tech,trivia,295,CRC,fast,female,child,english,modern
+1403,H,J,fiction,physics,221,Penguin,slow,female,child,hindi,modern
+1404,H,K,philosophy,autobiography,180,CRC,slow,female,child,english,modern
+1405,H,L,philosophy,physics,194,Orient Blackswan,medium,female,adult,english,medieval
+1406,H,M,nonfiction,classic,215,Apress,medium,male,child,english,modern
+1407,H,N,science,physics,240,Orient Blackswan,slow,female,child,english,ancient
+1408,H,O,philosophy,psychology,292,Orient Blackswan,fast,female,adult,english,ancient
+1409,H,P,tech,history,244,Springer,fast,female,child,hindi,medieval
+1410,H,Q,nonfiction,physics,304,CRC,medium,female,child,hindi,ancient
+1411,H,R,science,misc,290,Penguin,fast,female,adult,hindi,medieval
+1412,H,S,fiction,novel,243,Penguin,medium,female,old,english,medieval
+1413,H,T,nonfiction,signal_processing,255,Penguin,slow,male,old,english,ancient
+1414,H,U,nonfiction,autobiography,244,CRC,fast,female,child,hindi,medieval
+1415,H,V,nonfiction,classic,210,Wiley,slow,others,adult,hindi,ancient
+1416,H,W,science,economics,191,Orient Blackswan,fast,female,child,hindi,ancient
+1417,H,X,tech,data_science,172,HarperCollins,fast,others,child,hindi,medieval
+1418,H,Y,science,autobiography,296,Penguin,medium,others,adult,english,modern
+1419,H,Z,fiction,legal,231,Penguin,fast,female,old,english,modern
+1420,I,A,fiction,comic,316,Penguin,fast,others,old,hindi,medieval
+1421,I,B,science,trivia,256,Orient Blackswan,slow,male,child,hindi,medieval
+1422,I,C,philosophy,psychology,309,Springer,slow,others,child,hindi,modern
+1423,I,D,science,novel,310,HarperCollins,fast,others,child,english,modern
+1424,I,E,nonfiction,misc,172,Springer,medium,female,child,english,modern
+1425,I,F,nonfiction,mathematics,261,CRC,medium,others,adult,hindi,ancient
+1426,I,G,nonfiction,computer_science,181,Penguin,slow,female,adult,hindi,ancient
+1427,I,H,fiction,signal_processing,187,HarperCollins,fast,female,child,english,ancient
+1428,I,I,science,comic,295,Penguin,slow,male,child,english,ancient
+1429,I,J,fiction,economics,240,Orient Blackswan,slow,others,adult,english,ancient
+1430,I,K,fiction,mathematics,245,Springer,fast,male,child,english,ancient
+1431,I,L,nonfiction,history,236,Penguin,fast,female,old,hindi,ancient
+1432,I,M,science,novel,179,Apress,fast,female,adult,hindi,medieval
+1433,I,N,fiction,comic,191,Penguin,fast,others,adult,english,modern
+1434,I,O,philosophy,psychology,307,Orient Blackswan,medium,others,child,hindi,medieval
+1435,I,P,fiction,novel,210,Orient Blackswan,medium,male,old,hindi,medieval
+1436,I,Q,fiction,computer_science,235,Wiley,fast,female,old,hindi,medieval
+1437,I,R,science,economics,172,Springer,medium,others,adult,hindi,ancient
+1438,I,S,nonfiction,data_science,300,Penguin,fast,others,child,english,modern
+1439,I,T,philosophy,misc,329,Orient Blackswan,slow,others,adult,english,medieval
+1440,I,U,science,autobiography,266,Wiley,fast,female,old,hindi,medieval
+1441,I,V,tech,mathematics,207,Penguin,medium,female,child,hindi,ancient
+1442,I,W,science,novel,270,Apress,medium,female,old,english,ancient
+1443,I,X,nonfiction,signal_processing,312,HarperCollins,fast,others,old,english,modern
+1444,I,Y,fiction,economics,264,Springer,fast,female,old,english,medieval
+1445,I,Z,tech,signal_processing,316,Orient Blackswan,fast,others,child,hindi,ancient
+1446,J,A,nonfiction,computer_science,324,HarperCollins,slow,others,child,english,medieval
+1447,J,B,tech,computer_science,306,Penguin,medium,male,child,english,modern
+1448,J,C,tech,autobiography,338,Apress,slow,male,adult,hindi,modern
+1449,J,D,philosophy,computer_science,222,Penguin,slow,others,old,hindi,ancient
+1450,J,E,science,comic,187,Orient Blackswan,medium,others,child,english,medieval
+1451,J,F,tech,comic,257,HarperCollins,slow,male,adult,hindi,medieval
+1452,J,G,science,autobiography,329,Wiley,fast,others,old,english,ancient
+1453,J,H,science,trivia,298,Penguin,medium,female,child,english,medieval
+1454,J,I,science,misc,217,Springer,medium,male,old,english,ancient
+1455,J,J,philosophy,misc,151,Springer,slow,female,child,hindi,ancient
+1456,J,K,science,history,162,Apress,medium,female,old,hindi,medieval
+1457,J,L,science,trivia,200,CRC,fast,female,adult,english,modern
+1458,J,M,tech,comic,340,Apress,slow,male,adult,english,ancient
+1459,J,N,nonfiction,data_science,307,HarperCollins,fast,others,old,english,ancient
+1460,J,O,tech,computer_science,291,Penguin,fast,female,child,hindi,modern
+1461,J,P,fiction,classic,188,Penguin,slow,female,adult,hindi,medieval
+1462,J,Q,science,psychology,193,CRC,slow,male,old,english,ancient
+1463,J,R,philosophy,comic,272,HarperCollins,fast,female,old,hindi,medieval
+1464,J,S,tech,trivia,181,CRC,medium,female,child,english,medieval
+1465,J,T,tech,mathematics,302,Penguin,slow,male,child,english,medieval
+1466,J,U,philosophy,misc,332,Apress,fast,female,adult,hindi,ancient
+1467,J,V,nonfiction,autobiography,266,Apress,slow,others,child,english,modern
+1468,J,W,science,classic,324,Apress,slow,female,old,english,ancient
+1469,J,X,nonfiction,comic,235,HarperCollins,slow,female,old,hindi,ancient
+1470,J,Y,tech,history,245,Springer,medium,female,old,english,modern
+1471,J,Z,fiction,classic,193,Apress,slow,others,adult,english,modern
+1472,K,A,nonfiction,signal_processing,244,Springer,fast,others,old,hindi,ancient
+1473,K,B,philosophy,history,317,Penguin,medium,male,adult,hindi,ancient
+1474,K,C,fiction,computer_science,307,Penguin,medium,male,child,hindi,ancient
+1475,K,D,science,trivia,158,Wiley,medium,others,old,english,modern
+1476,K,E,philosophy,history,283,Wiley,medium,female,old,hindi,medieval
+1477,K,F,science,misc,281,Penguin,slow,others,adult,english,medieval
+1478,K,G,fiction,autobiography,266,HarperCollins,slow,others,old,hindi,medieval
+1479,K,H,philosophy,psychology,224,Wiley,slow,female,old,hindi,medieval
+1480,K,I,science,data_science,154,CRC,fast,male,adult,hindi,modern
+1481,K,J,tech,comic,255,Apress,slow,male,child,english,ancient
+1482,K,K,tech,mathematics,331,HarperCollins,slow,others,child,hindi,modern
+1483,K,L,philosophy,physics,285,Apress,fast,others,adult,english,modern
+1484,K,M,fiction,novel,204,Wiley,slow,female,child,english,modern
+1485,K,N,fiction,classic,198,Apress,fast,others,child,english,medieval
+1486,K,O,science,comic,238,Penguin,slow,female,old,english,modern
+1487,K,P,tech,comic,216,Wiley,medium,male,adult,english,ancient
+1488,K,Q,tech,data_science,248,Orient Blackswan,medium,others,old,hindi,ancient
+1489,K,R,philosophy,physics,229,HarperCollins,fast,others,child,hindi,medieval
+1490,K,S,fiction,computer_science,325,HarperCollins,fast,male,child,hindi,ancient
+1491,K,T,nonfiction,classic,341,Wiley,fast,male,child,hindi,modern
+1492,K,U,fiction,signal_processing,219,CRC,slow,male,child,hindi,ancient
+1493,K,V,science,misc,320,Wiley,medium,female,child,english,modern
+1494,K,W,science,trivia,264,HarperCollins,fast,others,old,english,medieval
+1495,K,X,tech,trivia,250,Springer,medium,others,child,hindi,medieval
+1496,K,Y,science,psychology,272,Penguin,slow,others,adult,hindi,medieval
+1497,K,Z,science,classic,198,Penguin,medium,others,adult,english,modern
+1498,L,A,fiction,misc,318,Penguin,fast,female,adult,english,medieval
+1499,L,B,fiction,misc,198,HarperCollins,fast,male,child,hindi,medieval
+1500,L,C,philosophy,economics,283,Springer,fast,male,child,english,ancient
+1501,L,D,fiction,novel,213,Wiley,medium,female,child,hindi,medieval
+1502,L,E,tech,physics,193,HarperCollins,slow,male,child,english,medieval
+1503,L,F,philosophy,trivia,329,Wiley,medium,female,old,english,medieval
+1504,L,G,fiction,misc,333,Penguin,fast,others,old,english,medieval
+1505,L,H,science,novel,150,Penguin,fast,male,adult,hindi,medieval
+1506,L,I,science,comic,290,Wiley,medium,male,old,hindi,medieval
+1507,L,J,nonfiction,autobiography,218,Springer,fast,male,child,english,ancient
+1508,L,K,nonfiction,trivia,282,Apress,medium,female,child,english,ancient
+1509,L,L,nonfiction,psychology,206,HarperCollins,fast,male,child,english,medieval
+1510,L,M,nonfiction,computer_science,292,Springer,medium,others,old,hindi,modern
+1511,L,N,fiction,misc,238,Orient Blackswan,medium,female,old,english,modern
+1512,L,O,tech,economics,312,Penguin,medium,male,child,hindi,medieval
+1513,L,P,philosophy,novel,273,CRC,fast,others,old,hindi,medieval
+1514,L,Q,nonfiction,comic,325,Springer,slow,female,child,hindi,ancient
+1515,L,R,fiction,mathematics,318,HarperCollins,medium,male,old,english,ancient
+1516,L,S,fiction,computer_science,273,Orient Blackswan,slow,female,child,hindi,modern
+1517,L,T,tech,trivia,213,Wiley,medium,male,adult,english,modern
+1518,L,U,fiction,legal,184,HarperCollins,medium,male,adult,hindi,modern
+1519,L,V,fiction,legal,324,HarperCollins,fast,male,child,hindi,ancient
+1520,L,W,science,history,244,HarperCollins,fast,male,adult,english,medieval
+1521,L,X,tech,psychology,159,Springer,medium,female,old,hindi,ancient
+1522,L,Y,science,comic,315,HarperCollins,fast,others,child,english,medieval
+1523,L,Z,tech,comic,313,Wiley,medium,others,adult,hindi,medieval
+1524,M,A,science,data_science,329,Orient Blackswan,medium,male,child,english,ancient
+1525,M,B,fiction,novel,229,Springer,medium,others,child,hindi,modern
+1526,M,C,nonfiction,legal,213,Orient Blackswan,slow,female,child,hindi,ancient
+1527,M,D,fiction,classic,203,Wiley,fast,others,old,hindi,modern
+1528,M,E,tech,psychology,278,CRC,medium,female,adult,english,ancient
+1529,M,F,science,trivia,181,Wiley,slow,male,adult,english,medieval
+1530,M,G,tech,trivia,251,Penguin,fast,male,adult,hindi,medieval
+1531,M,H,science,data_science,163,HarperCollins,medium,male,old,english,ancient
+1532,M,I,nonfiction,trivia,197,Wiley,medium,others,old,hindi,ancient
+1533,M,J,philosophy,misc,295,Orient Blackswan,medium,male,adult,english,ancient
+1534,M,K,fiction,misc,343,HarperCollins,medium,female,adult,hindi,modern
+1535,M,L,science,classic,332,Springer,medium,female,old,english,medieval
+1536,M,M,fiction,history,295,Wiley,slow,others,old,english,medieval
+1537,M,N,nonfiction,data_science,235,HarperCollins,slow,female,old,english,medieval
+1538,M,O,tech,legal,200,Wiley,medium,others,old,hindi,modern
+1539,M,P,nonfiction,legal,179,Apress,slow,male,child,english,modern
+1540,M,Q,tech,classic,291,Orient Blackswan,medium,others,old,hindi,modern
+1541,M,R,philosophy,comic,295,Springer,medium,others,adult,hindi,medieval
+1542,M,S,philosophy,economics,219,Orient Blackswan,medium,others,child,hindi,modern
+1543,M,T,nonfiction,data_science,205,CRC,medium,female,child,hindi,medieval
+1544,M,U,philosophy,psychology,218,HarperCollins,medium,others,old,english,medieval
+1545,M,V,nonfiction,signal_processing,194,Penguin,fast,male,old,english,ancient
+1546,M,W,science,history,173,Wiley,medium,female,child,hindi,ancient
+1547,M,X,nonfiction,trivia,294,Wiley,slow,others,child,english,ancient
+1548,M,Y,fiction,trivia,258,Penguin,fast,female,child,hindi,modern
+1549,M,Z,nonfiction,trivia,207,HarperCollins,slow,others,adult,hindi,ancient
+1550,N,A,philosophy,mathematics,268,HarperCollins,medium,male,child,english,medieval
+1551,N,B,tech,novel,304,Springer,slow,male,old,hindi,medieval
+1552,N,C,nonfiction,signal_processing,168,Apress,slow,female,adult,english,ancient
+1553,N,D,fiction,legal,233,Orient Blackswan,slow,others,child,hindi,modern
+1554,N,E,science,history,220,Springer,slow,others,adult,hindi,modern
+1555,N,F,science,data_science,299,Springer,slow,female,old,hindi,modern
+1556,N,G,science,legal,265,Penguin,slow,male,child,hindi,modern
+1557,N,H,tech,trivia,235,Penguin,medium,male,old,hindi,modern
+1558,N,I,nonfiction,signal_processing,152,Springer,medium,female,adult,hindi,modern
+1559,N,J,science,history,345,Apress,fast,female,old,hindi,modern
+1560,N,K,nonfiction,computer_science,219,HarperCollins,medium,female,adult,english,medieval
+1561,N,L,philosophy,mathematics,254,Apress,slow,others,old,hindi,ancient
+1562,N,M,fiction,psychology,158,Penguin,fast,others,adult,english,medieval
+1563,N,N,fiction,autobiography,218,HarperCollins,medium,male,child,english,medieval
+1564,N,O,philosophy,computer_science,199,Springer,slow,others,adult,hindi,medieval
+1565,N,P,philosophy,physics,303,Penguin,fast,male,child,english,ancient
+1566,N,Q,philosophy,legal,200,CRC,medium,others,old,hindi,medieval
+1567,N,R,nonfiction,mathematics,296,Orient Blackswan,medium,female,old,english,ancient
+1568,N,S,philosophy,trivia,188,CRC,slow,others,child,hindi,medieval
+1569,N,T,philosophy,legal,202,CRC,medium,others,child,english,medieval
+1570,N,U,science,physics,326,Springer,medium,others,child,hindi,ancient
+1571,N,V,tech,autobiography,282,Penguin,slow,others,child,hindi,medieval
+1572,N,W,science,economics,347,HarperCollins,medium,others,old,english,ancient
+1573,N,X,fiction,comic,195,Penguin,slow,female,adult,english,ancient
+1574,N,Y,nonfiction,trivia,337,Penguin,slow,male,adult,english,ancient
+1575,N,Z,science,signal_processing,168,Orient Blackswan,slow,others,adult,hindi,medieval
+1576,O,A,philosophy,comic,192,Penguin,slow,male,adult,hindi,ancient
+1577,O,B,tech,classic,161,HarperCollins,fast,others,old,english,medieval
+1578,O,C,philosophy,misc,312,Orient Blackswan,fast,female,old,english,modern
+1579,O,D,philosophy,signal_processing,252,Springer,slow,others,adult,hindi,ancient
+1580,O,E,fiction,data_science,170,Springer,medium,female,adult,english,medieval
+1581,O,F,science,computer_science,230,Apress,fast,female,old,english,medieval
+1582,O,G,tech,novel,206,Wiley,fast,others,child,hindi,medieval
+1583,O,H,philosophy,mathematics,189,Penguin,slow,others,child,hindi,modern
+1584,O,I,philosophy,comic,265,Springer,medium,others,child,english,medieval
+1585,O,J,philosophy,economics,228,Orient Blackswan,medium,others,old,hindi,modern
+1586,O,K,science,trivia,338,Apress,medium,female,old,english,medieval
+1587,O,L,fiction,economics,180,CRC,fast,others,child,hindi,medieval
+1588,O,M,fiction,computer_science,314,CRC,slow,male,old,hindi,modern
+1589,O,N,fiction,mathematics,293,Springer,fast,male,adult,english,ancient
+1590,O,O,nonfiction,autobiography,175,Orient Blackswan,fast,female,child,hindi,medieval
+1591,O,P,science,misc,183,Wiley,slow,female,child,hindi,modern
+1592,O,Q,fiction,history,197,Penguin,slow,others,old,hindi,medieval
+1593,O,R,nonfiction,psychology,336,Apress,slow,female,adult,english,modern
+1594,O,S,nonfiction,history,203,Penguin,slow,others,adult,english,medieval
+1595,O,T,nonfiction,trivia,198,Wiley,medium,others,adult,hindi,ancient
+1596,O,U,nonfiction,classic,241,HarperCollins,slow,others,child,hindi,medieval
+1597,O,V,tech,misc,205,Penguin,fast,others,adult,hindi,ancient
+1598,O,W,fiction,history,344,Orient Blackswan,fast,female,child,english,ancient
+1599,O,X,tech,autobiography,232,Wiley,slow,others,child,english,ancient
+1600,O,Y,fiction,mathematics,257,Wiley,fast,female,old,english,modern
+1601,O,Z,philosophy,psychology,272,Penguin,medium,others,old,hindi,ancient
+1602,P,A,nonfiction,mathematics,164,Penguin,medium,others,adult,english,modern
+1603,P,B,nonfiction,psychology,207,HarperCollins,fast,female,adult,hindi,modern
+1604,P,C,nonfiction,mathematics,270,Penguin,fast,female,child,english,medieval
+1605,P,D,science,history,151,Orient Blackswan,fast,male,child,hindi,ancient
+1606,P,E,fiction,classic,225,Apress,medium,male,adult,english,medieval
+1607,P,F,philosophy,novel,312,CRC,medium,female,old,english,medieval
+1608,P,G,philosophy,mathematics,314,Apress,slow,others,old,english,modern
+1609,P,H,nonfiction,physics,187,Springer,fast,female,child,hindi,ancient
+1610,P,I,philosophy,legal,214,HarperCollins,slow,others,adult,english,modern
+1611,P,J,nonfiction,economics,287,Penguin,slow,male,adult,english,ancient
+1612,P,K,science,novel,267,Springer,slow,female,child,english,modern
+1613,P,L,philosophy,classic,270,Penguin,slow,others,adult,hindi,medieval
+1614,P,M,philosophy,comic,326,Apress,medium,male,adult,english,modern
+1615,P,N,fiction,misc,334,Wiley,fast,male,child,english,ancient
+1616,P,O,nonfiction,data_science,349,Wiley,slow,others,old,hindi,medieval
+1617,P,P,fiction,signal_processing,266,CRC,fast,others,adult,hindi,medieval
+1618,P,Q,tech,signal_processing,165,CRC,slow,male,old,english,modern
+1619,P,R,philosophy,legal,265,CRC,fast,male,old,english,medieval
+1620,P,S,philosophy,mathematics,209,HarperCollins,fast,male,adult,hindi,modern
+1621,P,T,fiction,signal_processing,342,Springer,medium,female,child,english,medieval
+1622,P,U,fiction,economics,250,Apress,medium,female,child,english,ancient
+1623,P,V,nonfiction,legal,208,CRC,slow,others,child,hindi,medieval
+1624,P,W,science,comic,280,Penguin,fast,male,child,hindi,medieval
+1625,P,X,philosophy,legal,303,HarperCollins,slow,female,adult,hindi,modern
+1626,P,Y,science,physics,256,CRC,slow,others,adult,hindi,medieval
+1627,P,Z,science,misc,172,Orient Blackswan,fast,male,child,hindi,modern
+1628,Q,A,fiction,mathematics,158,Penguin,medium,male,child,hindi,ancient
+1629,Q,B,philosophy,psychology,203,Penguin,slow,others,child,english,ancient
+1630,Q,C,philosophy,history,254,CRC,slow,others,adult,english,medieval
+1631,Q,D,tech,history,217,Penguin,fast,others,old,english,modern
+1632,Q,E,science,misc,325,Springer,slow,female,old,english,medieval
+1633,Q,F,science,computer_science,220,Penguin,fast,others,child,english,medieval
+1634,Q,G,nonfiction,trivia,274,CRC,slow,female,old,hindi,medieval
+1635,Q,H,tech,psychology,245,Apress,medium,others,child,hindi,ancient
+1636,Q,I,nonfiction,physics,173,CRC,slow,others,child,english,medieval
+1637,Q,J,science,autobiography,349,Orient Blackswan,slow,others,child,english,modern
+1638,Q,K,philosophy,history,207,Orient Blackswan,slow,others,old,english,medieval
+1639,Q,L,philosophy,misc,338,Orient Blackswan,fast,female,adult,english,medieval
+1640,Q,M,science,mathematics,186,HarperCollins,medium,others,adult,english,ancient
+1641,Q,N,science,economics,271,Wiley,fast,others,child,english,medieval
+1642,Q,O,tech,signal_processing,275,Penguin,slow,female,old,hindi,medieval
+1643,Q,P,nonfiction,physics,255,CRC,slow,male,old,english,modern
+1644,Q,Q,nonfiction,data_science,344,Penguin,medium,others,old,english,ancient
+1645,Q,R,philosophy,history,203,Wiley,slow,others,old,english,ancient
+1646,Q,S,philosophy,comic,240,CRC,medium,male,child,hindi,medieval
+1647,Q,T,science,mathematics,295,Penguin,slow,female,old,english,medieval
+1648,Q,U,philosophy,history,271,CRC,slow,male,adult,hindi,modern
+1649,Q,V,tech,history,207,Orient Blackswan,fast,female,child,english,ancient
+1650,Q,W,fiction,physics,210,Penguin,medium,others,old,hindi,ancient
+1651,Q,X,philosophy,novel,283,Penguin,slow,female,old,hindi,ancient
+1652,Q,Y,fiction,history,151,Penguin,medium,others,adult,hindi,modern
+1653,Q,Z,tech,history,262,Wiley,medium,female,child,english,medieval
+1654,R,A,science,classic,341,Apress,medium,female,child,hindi,medieval
+1655,R,B,philosophy,physics,282,Springer,fast,female,adult,hindi,modern
+1656,R,C,philosophy,trivia,215,HarperCollins,slow,male,adult,hindi,medieval
+1657,R,D,fiction,novel,200,Orient Blackswan,medium,female,child,hindi,medieval
+1658,R,E,fiction,psychology,256,Penguin,fast,female,adult,hindi,modern
+1659,R,F,fiction,computer_science,175,CRC,slow,others,child,hindi,medieval
+1660,R,G,nonfiction,history,253,Wiley,fast,female,adult,english,medieval
+1661,R,H,nonfiction,data_science,160,Apress,slow,female,adult,hindi,ancient
+1662,R,I,fiction,mathematics,242,Penguin,medium,others,child,hindi,medieval
+1663,R,J,philosophy,signal_processing,228,Springer,medium,male,child,english,modern
+1664,R,K,philosophy,signal_processing,230,Penguin,medium,male,adult,english,medieval
+1665,R,L,fiction,comic,167,Apress,slow,male,old,hindi,ancient
+1666,R,M,fiction,computer_science,324,Springer,medium,male,adult,english,ancient
+1667,R,N,philosophy,physics,253,Apress,fast,others,child,hindi,ancient
+1668,R,O,tech,psychology,318,Orient Blackswan,fast,female,child,english,modern
+1669,R,P,nonfiction,mathematics,333,Penguin,slow,others,adult,english,ancient
+1670,R,Q,philosophy,computer_science,193,Orient Blackswan,fast,female,adult,english,medieval
+1671,R,R,science,novel,155,Apress,medium,male,child,hindi,ancient
+1672,R,S,science,classic,255,Penguin,medium,others,adult,hindi,medieval
+1673,R,T,philosophy,computer_science,270,CRC,medium,male,adult,english,modern
+1674,R,U,tech,autobiography,212,Orient Blackswan,fast,male,old,english,ancient
+1675,R,V,tech,legal,201,Springer,medium,others,adult,english,modern
+1676,R,W,fiction,physics,275,CRC,slow,female,adult,english,medieval
+1677,R,X,tech,classic,254,Penguin,medium,female,old,english,medieval
+1678,R,Y,science,mathematics,346,Apress,fast,female,old,hindi,modern
+1679,R,Z,fiction,legal,349,Springer,medium,female,child,english,medieval
+1680,S,A,tech,trivia,263,Wiley,fast,others,child,hindi,modern
+1681,S,B,tech,economics,158,Penguin,fast,female,old,english,modern
+1682,S,C,nonfiction,classic,282,Orient Blackswan,slow,others,child,english,medieval
+1683,S,D,tech,novel,265,Penguin,fast,others,old,hindi,modern
+1684,S,E,nonfiction,novel,270,Penguin,fast,male,old,hindi,modern
+1685,S,F,tech,history,273,Springer,slow,male,old,english,medieval
+1686,S,G,philosophy,autobiography,349,Orient Blackswan,fast,male,adult,hindi,medieval
+1687,S,H,tech,mathematics,287,Springer,medium,male,adult,hindi,ancient
+1688,S,I,tech,economics,275,Penguin,fast,others,child,english,modern
+1689,S,J,fiction,computer_science,255,Apress,slow,others,adult,english,ancient
+1690,S,K,nonfiction,signal_processing,312,HarperCollins,slow,male,adult,english,modern
+1691,S,L,nonfiction,novel,178,Penguin,medium,female,adult,hindi,medieval
+1692,S,M,science,legal,265,CRC,fast,female,old,english,medieval
+1693,S,N,science,economics,204,Penguin,slow,male,child,english,ancient
+1694,S,O,philosophy,signal_processing,257,CRC,medium,female,adult,english,medieval
+1695,S,P,nonfiction,classic,297,Apress,slow,female,child,hindi,ancient
+1696,S,Q,nonfiction,novel,173,Penguin,fast,female,child,english,ancient
+1697,S,R,nonfiction,computer_science,183,HarperCollins,slow,others,old,english,modern
+1698,S,S,nonfiction,autobiography,152,Apress,slow,female,adult,hindi,medieval
+1699,S,T,philosophy,psychology,342,Wiley,fast,others,adult,hindi,ancient
+1700,S,U,science,signal_processing,166,Penguin,fast,others,child,hindi,modern
+1701,S,V,tech,classic,348,Springer,fast,male,old,hindi,modern
+1702,S,W,science,history,299,Apress,medium,others,adult,hindi,ancient
+1703,S,X,fiction,computer_science,223,Orient Blackswan,medium,male,old,hindi,medieval
+1704,S,Y,tech,misc,220,HarperCollins,medium,female,old,english,ancient
+1705,S,Z,fiction,computer_science,313,Springer,fast,others,child,hindi,medieval
+1706,T,A,fiction,computer_science,274,Penguin,medium,others,adult,english,medieval
+1707,T,B,fiction,psychology,346,Wiley,slow,others,child,hindi,medieval
+1708,T,C,fiction,misc,170,Apress,fast,female,adult,english,modern
+1709,T,D,tech,novel,270,Penguin,fast,male,child,english,ancient
+1710,T,E,philosophy,history,345,Springer,slow,male,adult,english,modern
+1711,T,F,tech,computer_science,283,Wiley,fast,male,old,hindi,ancient
+1712,T,G,nonfiction,mathematics,230,HarperCollins,medium,others,old,hindi,ancient
+1713,T,H,science,mathematics,229,HarperCollins,fast,male,child,hindi,modern
+1714,T,I,nonfiction,comic,198,Penguin,fast,female,old,hindi,modern
+1715,T,J,fiction,physics,150,Penguin,fast,others,old,english,modern
+1716,T,K,science,classic,304,CRC,medium,male,old,english,ancient
+1717,T,L,nonfiction,psychology,197,Apress,slow,others,adult,english,medieval
+1718,T,M,tech,economics,287,Apress,medium,female,adult,english,ancient
+1719,T,N,philosophy,data_science,230,Wiley,slow,female,old,hindi,ancient
+1720,T,O,science,economics,302,CRC,fast,others,old,hindi,medieval
+1721,T,P,fiction,misc,201,Penguin,slow,female,child,hindi,modern
+1722,T,Q,philosophy,data_science,258,Penguin,slow,others,child,english,modern
+1723,T,R,fiction,trivia,169,Springer,slow,male,adult,english,ancient
+1724,T,S,nonfiction,classic,208,Orient Blackswan,fast,female,child,english,ancient
+1725,T,T,science,data_science,317,Apress,fast,female,old,hindi,ancient
+1726,T,U,science,autobiography,268,Springer,medium,male,old,english,medieval
+1727,T,V,tech,psychology,231,Wiley,fast,male,adult,hindi,ancient
+1728,T,W,philosophy,legal,150,Penguin,medium,female,old,english,ancient
+1729,T,X,philosophy,data_science,223,Penguin,slow,female,adult,english,modern
+1730,T,Y,philosophy,trivia,175,Wiley,fast,others,child,hindi,medieval
+1731,T,Z,science,classic,319,Orient Blackswan,fast,female,child,english,modern
+1732,U,A,tech,legal,221,Apress,medium,others,adult,english,modern
+1733,U,B,science,signal_processing,276,Apress,fast,male,old,english,modern
+1734,U,C,science,psychology,192,HarperCollins,fast,female,child,english,medieval
+1735,U,D,science,trivia,291,Penguin,medium,female,child,english,modern
+1736,U,E,tech,psychology,240,Penguin,fast,male,child,english,medieval
+1737,U,F,tech,trivia,317,Penguin,fast,male,adult,hindi,ancient
+1738,U,G,nonfiction,data_science,239,Penguin,slow,male,adult,english,medieval
+1739,U,H,nonfiction,autobiography,260,HarperCollins,slow,others,old,hindi,modern
+1740,U,I,science,physics,189,Springer,medium,others,child,hindi,medieval
+1741,U,J,science,comic,186,Orient Blackswan,fast,female,child,english,medieval
+1742,U,K,nonfiction,classic,345,HarperCollins,medium,male,old,hindi,modern
+1743,U,L,philosophy,misc,222,CRC,slow,others,child,hindi,modern
+1744,U,M,fiction,signal_processing,265,Apress,slow,female,child,english,medieval
+1745,U,N,science,history,346,Springer,medium,female,old,english,medieval
+1746,U,O,tech,psychology,222,HarperCollins,slow,others,child,english,ancient
+1747,U,P,nonfiction,computer_science,220,CRC,slow,others,old,english,modern
+1748,U,Q,philosophy,data_science,345,Penguin,slow,female,child,hindi,modern
+1749,U,R,tech,signal_processing,312,Penguin,slow,female,old,english,ancient
+1750,U,S,science,novel,252,CRC,fast,female,old,english,modern
+1751,U,T,fiction,comic,250,Penguin,medium,female,old,hindi,medieval
+1752,U,U,science,misc,163,Penguin,fast,male,child,english,medieval
+1753,U,V,science,autobiography,160,Apress,medium,female,child,hindi,modern
+1754,U,W,philosophy,legal,269,Orient Blackswan,slow,female,adult,english,modern
+1755,U,X,philosophy,physics,221,Wiley,fast,others,adult,english,modern
+1756,U,Y,nonfiction,physics,280,Apress,fast,male,child,english,modern
+1757,U,Z,nonfiction,novel,340,Penguin,slow,female,old,hindi,medieval
+1758,V,A,philosophy,signal_processing,255,Wiley,fast,male,child,english,ancient
+1759,V,B,tech,signal_processing,280,Wiley,medium,others,old,hindi,medieval
+1760,V,C,nonfiction,physics,213,Springer,medium,female,adult,english,medieval
+1761,V,D,philosophy,trivia,232,Wiley,slow,male,adult,hindi,modern
+1762,V,E,science,classic,249,Orient Blackswan,fast,male,old,hindi,medieval
+1763,V,F,philosophy,signal_processing,236,Penguin,medium,female,old,english,ancient
+1764,V,G,tech,mathematics,159,Apress,slow,male,child,english,modern
+1765,V,H,nonfiction,economics,244,Apress,medium,others,child,english,ancient
+1766,V,I,science,misc,329,Springer,medium,others,child,hindi,medieval
+1767,V,J,nonfiction,novel,201,HarperCollins,medium,female,child,hindi,medieval
+1768,V,K,tech,computer_science,163,Penguin,medium,male,old,hindi,ancient
+1769,V,L,philosophy,history,219,Orient Blackswan,fast,others,old,english,modern
+1770,V,M,fiction,signal_processing,263,Springer,fast,female,adult,hindi,ancient
+1771,V,N,science,legal,154,Apress,medium,male,child,hindi,modern
+1772,V,O,science,data_science,207,Penguin,slow,female,old,hindi,medieval
+1773,V,P,philosophy,legal,258,Apress,medium,female,child,english,modern
+1774,V,Q,science,trivia,226,CRC,slow,male,child,hindi,modern
+1775,V,R,tech,autobiography,323,HarperCollins,medium,male,child,hindi,modern
+1776,V,S,fiction,trivia,254,Penguin,medium,female,old,hindi,medieval
+1777,V,T,science,novel,251,Wiley,fast,male,child,hindi,modern
+1778,V,U,tech,legal,345,Wiley,slow,others,child,english,medieval
+1779,V,V,fiction,misc,250,CRC,slow,others,adult,hindi,ancient
+1780,V,W,philosophy,autobiography,213,Penguin,medium,female,child,english,ancient
+1781,V,X,philosophy,classic,247,CRC,medium,others,adult,hindi,medieval
+1782,V,Y,tech,autobiography,150,Apress,slow,male,adult,hindi,modern
+1783,V,Z,fiction,misc,178,Springer,medium,female,adult,hindi,modern
+1784,W,A,fiction,legal,209,CRC,slow,male,adult,english,medieval
+1785,W,B,fiction,novel,221,Springer,medium,others,child,english,modern
+1786,W,C,philosophy,classic,202,Springer,fast,female,child,english,modern
+1787,W,D,science,autobiography,339,Orient Blackswan,slow,female,old,hindi,modern
+1788,W,E,philosophy,novel,211,CRC,fast,female,child,english,ancient
+1789,W,F,science,computer_science,307,Springer,slow,female,child,english,ancient
+1790,W,G,philosophy,autobiography,222,Orient Blackswan,medium,male,old,hindi,ancient
+1791,W,H,tech,autobiography,226,HarperCollins,fast,male,adult,hindi,medieval
+1792,W,I,nonfiction,autobiography,189,Springer,fast,male,old,english,modern
+1793,W,J,science,classic,273,Penguin,medium,male,child,hindi,medieval
+1794,W,K,tech,autobiography,312,CRC,medium,female,child,english,ancient
+1795,W,L,nonfiction,economics,150,Penguin,medium,female,old,hindi,modern
+1796,W,M,fiction,mathematics,167,HarperCollins,medium,male,child,hindi,modern
+1797,W,N,philosophy,history,292,HarperCollins,medium,male,adult,english,medieval
+1798,W,O,science,trivia,201,Orient Blackswan,fast,male,child,hindi,medieval
+1799,W,P,science,signal_processing,180,Orient Blackswan,medium,female,child,hindi,ancient
+1800,W,Q,fiction,signal_processing,313,Wiley,slow,male,adult,english,ancient
+1801,W,R,philosophy,economics,266,HarperCollins,fast,female,adult,hindi,medieval
+1802,W,S,nonfiction,signal_processing,337,Orient Blackswan,medium,others,child,hindi,ancient
+1803,W,T,tech,mathematics,170,Penguin,fast,female,adult,english,ancient
+1804,W,U,science,mathematics,175,Penguin,slow,female,old,english,medieval
+1805,W,V,tech,mathematics,213,Penguin,slow,others,adult,hindi,modern
+1806,W,W,philosophy,mathematics,295,Orient Blackswan,fast,female,old,english,modern
+1807,W,X,philosophy,comic,231,Springer,slow,others,child,english,modern
+1808,W,Y,nonfiction,trivia,314,Penguin,slow,others,old,hindi,modern
+1809,W,Z,philosophy,data_science,290,CRC,medium,female,old,hindi,modern
+1810,X,A,nonfiction,autobiography,283,HarperCollins,fast,female,adult,english,ancient
+1811,X,B,nonfiction,economics,329,Springer,fast,female,child,english,ancient
+1812,X,C,science,novel,339,Springer,medium,female,adult,english,medieval
+1813,X,D,philosophy,physics,235,Penguin,slow,others,child,english,modern
+1814,X,E,nonfiction,classic,310,Penguin,slow,male,old,hindi,ancient
+1815,X,F,tech,classic,199,HarperCollins,medium,female,adult,hindi,medieval
+1816,X,G,fiction,autobiography,307,Orient Blackswan,slow,female,adult,hindi,modern
+1817,X,H,nonfiction,comic,162,Orient Blackswan,medium,others,old,english,modern
+1818,X,I,science,classic,340,Apress,fast,male,adult,hindi,ancient
+1819,X,J,nonfiction,signal_processing,320,Penguin,slow,male,adult,english,ancient
+1820,X,K,tech,mathematics,319,HarperCollins,fast,others,child,hindi,modern
+1821,X,L,fiction,classic,212,Orient Blackswan,medium,male,child,hindi,ancient
+1822,X,M,fiction,autobiography,349,CRC,fast,male,child,hindi,modern
+1823,X,N,nonfiction,economics,310,CRC,slow,others,old,english,medieval
+1824,X,O,tech,psychology,336,Wiley,fast,others,child,english,modern
+1825,X,P,nonfiction,mathematics,311,Springer,medium,others,adult,english,modern
+1826,X,Q,science,classic,311,HarperCollins,slow,male,old,english,medieval
+1827,X,R,science,novel,153,HarperCollins,medium,male,old,english,medieval
+1828,X,S,nonfiction,computer_science,205,CRC,fast,others,child,english,medieval
+1829,X,T,philosophy,data_science,314,Apress,medium,female,child,english,modern
+1830,X,U,nonfiction,novel,336,Wiley,medium,others,old,english,ancient
+1831,X,V,science,legal,168,CRC,slow,male,old,hindi,modern
+1832,X,W,philosophy,history,231,Penguin,fast,male,child,hindi,medieval
+1833,X,X,science,legal,275,Orient Blackswan,medium,others,child,english,ancient
+1834,X,Y,nonfiction,autobiography,341,Penguin,slow,others,child,english,modern
+1835,X,Z,science,computer_science,208,HarperCollins,slow,female,old,english,modern
+1836,Y,A,nonfiction,physics,338,Wiley,slow,female,old,english,ancient
+1837,Y,B,tech,trivia,286,Apress,slow,female,child,english,ancient
+1838,Y,C,fiction,trivia,241,CRC,slow,male,child,english,medieval
+1839,Y,D,science,history,255,Penguin,medium,others,adult,hindi,ancient
+1840,Y,E,tech,history,179,Orient Blackswan,slow,female,child,english,ancient
+1841,Y,F,nonfiction,misc,175,Wiley,medium,others,old,hindi,modern
+1842,Y,G,philosophy,novel,186,Apress,slow,male,old,english,ancient
+1843,Y,H,science,misc,168,Penguin,medium,others,old,hindi,modern
+1844,Y,I,nonfiction,psychology,260,Penguin,medium,female,child,hindi,modern
+1845,Y,J,tech,psychology,346,Wiley,medium,female,adult,english,ancient
+1846,Y,K,science,trivia,169,Springer,slow,others,child,hindi,ancient
+1847,Y,L,science,psychology,169,Apress,fast,female,adult,hindi,modern
+1848,Y,M,fiction,economics,158,CRC,slow,female,adult,english,modern
+1849,Y,N,fiction,autobiography,312,Penguin,slow,others,adult,hindi,ancient
+1850,Y,O,tech,classic,292,HarperCollins,fast,female,adult,hindi,modern
+1851,Y,P,tech,comic,279,Wiley,medium,male,adult,english,modern
+1852,Y,Q,tech,signal_processing,174,Wiley,medium,female,old,english,medieval
+1853,Y,R,science,classic,291,Wiley,fast,male,adult,hindi,modern
+1854,Y,S,nonfiction,signal_processing,192,CRC,slow,male,adult,english,medieval
+1855,Y,T,nonfiction,psychology,160,Wiley,fast,female,adult,hindi,medieval
+1856,Y,U,philosophy,signal_processing,204,Springer,fast,others,child,english,modern
+1857,Y,V,science,classic,305,Wiley,fast,male,child,hindi,ancient
+1858,Y,W,fiction,comic,316,Penguin,fast,female,child,english,ancient
+1859,Y,X,philosophy,legal,212,Penguin,fast,others,adult,hindi,ancient
+1860,Y,Y,science,signal_processing,269,Wiley,medium,others,old,hindi,ancient
+1861,Y,Z,philosophy,misc,254,Penguin,slow,others,old,hindi,ancient
+1862,Z,A,fiction,psychology,182,Penguin,medium,male,adult,hindi,medieval
+1863,Z,B,fiction,history,302,Penguin,medium,female,old,hindi,medieval
+1864,Z,C,nonfiction,economics,179,Wiley,fast,female,child,english,ancient
+1865,Z,D,philosophy,psychology,173,Penguin,fast,male,old,hindi,ancient
+1866,Z,E,tech,trivia,312,Springer,medium,others,old,english,modern
+1867,Z,F,science,comic,319,Wiley,medium,male,old,hindi,medieval
+1868,Z,G,tech,novel,262,HarperCollins,fast,female,old,english,medieval
+1869,Z,H,tech,psychology,156,HarperCollins,slow,male,child,hindi,medieval
+1870,Z,I,nonfiction,data_science,176,Penguin,slow,male,adult,hindi,medieval
+1871,Z,J,tech,misc,243,Apress,medium,male,old,hindi,medieval
+1872,Z,K,fiction,data_science,181,Penguin,fast,male,child,english,medieval
+1873,Z,L,tech,signal_processing,213,HarperCollins,medium,others,adult,hindi,modern
+1874,Z,M,science,signal_processing,261,Wiley,slow,male,adult,english,medieval
+1875,Z,N,science,computer_science,243,Springer,medium,others,child,english,medieval
+1876,Z,O,philosophy,psychology,161,Penguin,medium,male,child,english,ancient
+1877,Z,P,fiction,mathematics,233,Springer,medium,others,old,english,medieval
+1878,Z,Q,fiction,history,215,Penguin,slow,female,child,english,ancient
+1879,Z,R,fiction,signal_processing,322,Penguin,fast,others,old,hindi,medieval
+1880,Z,S,tech,trivia,195,Wiley,medium,others,adult,hindi,ancient
+1881,Z,T,fiction,mathematics,309,CRC,slow,others,old,english,ancient
+1882,Z,U,fiction,computer_science,251,Penguin,fast,male,adult,hindi,ancient
+1883,Z,V,tech,trivia,171,Wiley,medium,female,adult,english,medieval
+1884,Z,W,tech,signal_processing,202,CRC,medium,others,adult,english,ancient
+1885,Z,X,fiction,psychology,245,Apress,medium,male,child,english,medieval
+1886,Z,Y,philosophy,novel,182,Penguin,medium,others,old,english,modern
+1887,Z,Z,science,data_science,208,Penguin,medium,others,child,hindi,modern
